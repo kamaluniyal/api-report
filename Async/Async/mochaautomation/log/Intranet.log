@@ -1,0 +1,1982 @@
+[2017-11-13 13:57:13.118] [INFO] default - Start of the automation test Execution
+[2017-11-13 13:57:13.367] [INFO] default - In fnExcelGetInstance
+[2017-11-13 13:57:13.372] [INFO] default - End of the automation test Execution
+[2017-11-13 13:57:15.612] [INFO] default - Validating 200to be 200
+[2017-11-13 13:57:15.613] [INFO] default - Validating-data.commodities[0].color-to be present in response body
+[2017-11-13 13:57:15.614] [INFO] default - Validating-data.commodities[0].name-to be present in response body
+[2017-11-13 13:57:15.614] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 13:57:15.615] [INFO] default - Validating-data.commodities[0].name-to be equal to-Corn
+[2017-11-13 14:28:55.528] [INFO] default - Start of the automation test Execution
+[2017-11-13 14:28:55.791] [INFO] default - In fnExcelGetInstance
+[2017-11-13 14:28:55.806] [INFO] default - End of the automation test Execution
+[2017-11-13 14:28:56.979] [INFO] default - Validating 200to be 200
+[2017-11-13 14:28:56.980] [INFO] default - Validating-data.commodities[0].color-to be present in response body
+[2017-11-13 14:28:56.981] [INFO] default - Validating-data.commodities[0].name-to be present in response body
+[2017-11-13 14:28:56.981] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 14:28:56.981] [INFO] default - Validating 200to be 200
+[2017-11-13 14:28:56.981] [INFO] default - Validating-data.commodities[0].color-to be present in response body
+[2017-11-13 14:28:56.982] [INFO] default - Validating-data.commodities[0].name-to be present in response body
+[2017-11-13 14:28:56.982] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 14:30:36.113] [INFO] default - Start of the automation test Execution
+[2017-11-13 14:30:36.375] [INFO] default - In fnExcelGetInstance
+[2017-11-13 14:30:36.380] [INFO] default - End of the automation test Execution
+[2017-11-13 14:30:37.279] [INFO] default - Validating 200to be 200
+[2017-11-13 14:30:37.280] [INFO] default - Validating-data.commodities[0].color-to be present in response body
+[2017-11-13 14:30:37.281] [INFO] default - Validating-data.commodities[0].name-to be present in response body
+[2017-11-13 14:30:37.281] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 14:30:37.281] [INFO] default - Validating-data.commodities[0].name-to be equal to-Corn
+[2017-11-13 15:53:48.837] [INFO] default - Start of the automation test Execution
+[2017-11-13 15:53:49.091] [INFO] default - In fnExcelGetInstance
+[2017-11-13 15:53:49.097] [INFO] default - End of the automation test Execution
+[2017-11-13 15:53:51.579] [INFO] default - Validating 200to be 200
+[2017-11-13 15:53:51.581] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:53:51.583] [INFO] default - Validating 200to be 200
+[2017-11-13 15:53:51.584] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:53:51.585] [INFO] default - Validating 200to be 200
+[2017-11-13 15:53:51.585] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:53:51.585] [INFO] default - Validating 200to be 200
+[2017-11-13 15:53:51.586] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:53:51.586] [INFO] default - Validating 200to be 200
+[2017-11-13 15:53:51.586] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:53:51.592] [INFO] default - Validating 200to be 200
+[2017-11-13 15:53:51.593] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:54:50.697] [INFO] default - Start of the automation test Execution
+[2017-11-13 15:54:50.974] [INFO] default - In fnExcelGetInstance
+[2017-11-13 15:54:50.993] [INFO] default - End of the automation test Execution
+[2017-11-13 15:54:52.391] [INFO] default - Validating 200to be 200
+[2017-11-13 15:54:52.393] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:54:52.395] [INFO] default - Validating 200to be 200
+[2017-11-13 15:54:52.396] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:54:52.396] [INFO] default - Validating 200to be 200
+[2017-11-13 15:54:52.396] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:54:52.397] [INFO] default - Validating 200to be 200
+[2017-11-13 15:54:52.397] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:54:52.398] [INFO] default - Validating 200to be 200
+[2017-11-13 15:54:52.398] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:54:52.399] [INFO] default - Validating 200to be 200
+[2017-11-13 15:54:52.399] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:54:52.400] [INFO] default - Validating 200to be 200
+[2017-11-13 15:54:52.400] [INFO] default - Validating-data.commodities[0].color-to be equal to-brown
+[2017-11-13 15:57:10.152] [INFO] default - Start of the automation test Execution
+[2017-11-13 15:57:10.409] [INFO] default - In fnExcelGetInstance
+[2017-11-13 15:57:10.424] [INFO] default - End of the automation test Execution
+[2017-11-13 15:57:11.826] [INFO] default - Validating 200to be 200
+[2017-11-13 15:57:11.829] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 15:57:11.830] [INFO] default - Validating 200to be 200
+[2017-11-13 15:57:11.831] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 15:57:11.832] [INFO] default - Validating 200to be 200
+[2017-11-13 15:57:11.832] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 15:57:11.833] [INFO] default - Validating 200to be 200
+[2017-11-13 15:57:11.833] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 15:57:11.833] [INFO] default - Validating 200to be 200
+[2017-11-13 15:57:11.834] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 15:57:11.838] [INFO] default - Validating 200to be 200
+[2017-11-13 15:57:11.838] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 15:57:11.856] [INFO] default - Validating 200to be 200
+[2017-11-13 15:57:11.856] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 15:59:45.491] [INFO] default - Start of the automation test Execution
+[2017-11-13 15:59:45.746] [INFO] default - In fnExcelGetInstance
+[2017-11-13 15:59:45.752] [INFO] default - End of the automation test Execution
+[2017-11-13 15:59:47.192] [INFO] default - Validating 200to be 200
+[2017-11-13 15:59:47.194] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 15:59:47.197] [INFO] default - Validating 200to be 200
+[2017-11-13 15:59:47.197] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 15:59:47.198] [INFO] default - Validating 200to be 200
+[2017-11-13 15:59:47.198] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 15:59:47.198] [INFO] default - Validating 200to be 200
+[2017-11-13 15:59:47.198] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 15:59:47.199] [INFO] default - Validating 200to be 200
+[2017-11-13 15:59:47.199] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 15:59:47.202] [INFO] default - Validating 200to be 200
+[2017-11-13 15:59:47.202] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 15:59:47.205] [INFO] default - Validating 200to be 200
+[2017-11-13 15:59:47.205] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 16:00:55.472] [INFO] default - Start of the automation test Execution
+[2017-11-13 16:00:55.724] [INFO] default - In fnExcelGetInstance
+[2017-11-13 16:00:55.730] [INFO] default - End of the automation test Execution
+[2017-11-13 16:00:57.148] [INFO] default - Validating 200to be 200
+[2017-11-13 16:00:57.150] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 16:00:57.152] [INFO] default - Validating 200to be 200
+[2017-11-13 16:00:57.153] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 16:00:57.153] [INFO] default - Validating 200to be 200
+[2017-11-13 16:00:57.154] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 16:00:57.156] [INFO] default - Validating 200to be 200
+[2017-11-13 16:00:57.157] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 16:00:57.164] [INFO] default - Validating 200to be 200
+[2017-11-13 16:00:57.165] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 16:00:57.166] [INFO] default - Validating 200to be 200
+[2017-11-13 16:00:57.166] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 16:00:57.175] [INFO] default - Validating 200to be 200
+[2017-11-13 16:00:57.176] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 16:01:33.064] [INFO] default - Start of the automation test Execution
+[2017-11-13 16:01:33.315] [INFO] default - In fnExcelGetInstance
+[2017-11-13 16:01:33.331] [INFO] default - End of the automation test Execution
+[2017-11-13 16:01:34.720] [INFO] default - Validating 200to be 200
+[2017-11-13 16:01:34.723] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 16:01:34.724] [INFO] default - Validating 200to be 200
+[2017-11-13 16:01:34.725] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 16:01:34.725] [INFO] default - Validating 200to be 200
+[2017-11-13 16:01:34.726] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 16:01:34.727] [INFO] default - Validating 200to be 200
+[2017-11-13 16:01:34.727] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 16:01:34.727] [INFO] default - Validating 200to be 200
+[2017-11-13 16:01:34.728] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 16:01:34.729] [INFO] default - Validating 200to be 200
+[2017-11-13 16:01:34.729] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 16:01:34.742] [INFO] default - Validating 200to be 200
+[2017-11-13 16:01:34.743] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 16:09:03.935] [INFO] default - Start of the automation test Execution
+[2017-11-13 16:09:04.196] [INFO] default - In fnExcelGetInstance
+[2017-11-13 16:09:04.211] [INFO] default - End of the automation test Execution
+[2017-11-13 16:10:08.939] [INFO] default - Start of the automation test Execution
+[2017-11-13 16:10:09.204] [INFO] default - In fnExcelGetInstance
+[2017-11-13 16:10:09.224] [INFO] default - End of the automation test Execution
+[2017-11-13 16:10:10.891] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:10.893] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 16:10:10.895] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:10.896] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 16:10:10.896] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:10.897] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 16:10:10.898] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:10.898] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 16:10:10.899] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:10.899] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 16:10:10.899] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:10.900] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 16:10:46.570] [INFO] default - Start of the automation test Execution
+[2017-11-13 16:10:46.829] [INFO] default - In fnExcelGetInstance
+[2017-11-13 16:10:46.845] [INFO] default - End of the automation test Execution
+[2017-11-13 16:10:48.174] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:48.176] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 16:10:48.178] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:48.179] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 16:10:48.179] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:48.179] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 16:10:48.180] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:48.181] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 16:10:48.182] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:48.182] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 16:10:48.183] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:48.184] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 16:10:48.184] [INFO] default - Validating 200to be 200
+[2017-11-13 16:10:48.185] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 16:11:19.837] [INFO] default - Start of the automation test Execution
+[2017-11-13 16:11:20.104] [INFO] default - In fnExcelGetInstance
+[2017-11-13 16:11:20.120] [INFO] default - End of the automation test Execution
+[2017-11-13 16:11:21.413] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:21.414] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 16:11:21.418] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:21.418] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 16:11:21.419] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:21.420] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 16:11:21.420] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:21.421] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 16:11:21.422] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:21.422] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 16:11:21.423] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:21.424] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 16:11:21.427] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:21.429] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 16:11:43.244] [INFO] default - Start of the automation test Execution
+[2017-11-13 16:11:43.506] [INFO] default - In fnExcelGetInstance
+[2017-11-13 16:11:43.522] [INFO] default - End of the automation test Execution
+[2017-11-13 16:11:44.883] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:44.885] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 16:11:44.887] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:44.888] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 16:11:44.889] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:44.889] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 16:11:44.890] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:44.890] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 16:11:44.891] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:44.891] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 16:11:44.892] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:44.892] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 16:11:44.892] [INFO] default - Validating 200to be 200
+[2017-11-13 16:11:44.893] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 16:12:09.966] [INFO] default - Start of the automation test Execution
+[2017-11-13 16:12:10.234] [INFO] default - In fnExcelGetInstance
+[2017-11-13 16:12:10.249] [INFO] default - End of the automation test Execution
+[2017-11-13 16:12:11.629] [INFO] default - Validating 200to be 200
+[2017-11-13 16:12:11.631] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 16:12:11.633] [INFO] default - Validating 200to be 200
+[2017-11-13 16:12:11.634] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 16:12:11.635] [INFO] default - Validating 200to be 200
+[2017-11-13 16:12:11.635] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 16:12:11.635] [INFO] default - Validating 200to be 200
+[2017-11-13 16:12:11.636] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 16:12:11.636] [INFO] default - Validating 200to be 200
+[2017-11-13 16:12:11.636] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 16:12:11.644] [INFO] default - Validating 200to be 200
+[2017-11-13 16:12:11.644] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 16:12:11.646] [INFO] default - Validating 200to be 200
+[2017-11-13 16:12:11.646] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 16:14:46.199] [INFO] default - Start of the automation test Execution
+[2017-11-13 16:14:46.455] [INFO] default - In fnExcelGetInstance
+[2017-11-13 16:14:46.472] [INFO] default - End of the automation test Execution
+[2017-11-13 16:14:48.167] [INFO] default - Validating 200to be 200
+[2017-11-13 16:14:48.169] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 16:14:48.171] [INFO] default - Validating 200to be 200
+[2017-11-13 16:14:48.171] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 16:14:48.172] [INFO] default - Validating 200to be 200
+[2017-11-13 16:14:48.173] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 16:14:48.173] [INFO] default - Validating 200to be 200
+[2017-11-13 16:14:48.174] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 16:14:48.174] [INFO] default - Validating 200to be 200
+[2017-11-13 16:14:48.175] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 16:14:48.175] [INFO] default - Validating 200to be 200
+[2017-11-13 16:14:48.176] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 16:14:48.176] [INFO] default - Validating 200to be 200
+[2017-11-13 16:14:48.176] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 16:15:27.981] [INFO] default - Start of the automation test Execution
+[2017-11-13 16:15:28.245] [INFO] default - In fnExcelGetInstance
+[2017-11-13 16:15:28.251] [INFO] default - End of the automation test Execution
+[2017-11-13 16:15:29.890] [INFO] default - Validating 200to be 200
+[2017-11-13 16:15:29.892] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 16:15:29.894] [INFO] default - Validating 200to be 200
+[2017-11-13 16:15:29.895] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 16:15:29.895] [INFO] default - Validating 200to be 200
+[2017-11-13 16:15:29.895] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 16:15:29.896] [INFO] default - Validating 200to be 200
+[2017-11-13 16:15:29.896] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 16:15:29.906] [INFO] default - Validating 200to be 200
+[2017-11-13 16:15:29.907] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 16:15:29.912] [INFO] default - Validating 200to be 200
+[2017-11-13 16:15:29.913] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 16:15:29.914] [INFO] default - Validating 200to be 200
+[2017-11-13 16:15:29.915] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 17:00:00.841] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:00:01.099] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:00:01.115] [INFO] default - End of the automation test Execution
+[2017-11-13 17:00:03.543] [INFO] default - Validating 200to be 200
+[2017-11-13 17:00:03.545] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 17:00:03.547] [INFO] default - Validating 200to be 200
+[2017-11-13 17:00:03.548] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 17:00:03.549] [INFO] default - Validating 200to be 200
+[2017-11-13 17:00:03.549] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 17:00:03.550] [INFO] default - Validating 200to be 200
+[2017-11-13 17:00:03.550] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 17:00:03.561] [INFO] default - Validating 200to be 200
+[2017-11-13 17:00:03.562] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 17:00:03.563] [INFO] default - Validating 200to be 200
+[2017-11-13 17:00:03.563] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 17:00:03.564] [INFO] default - Validating 200to be 200
+[2017-11-13 17:00:03.564] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 17:00:41.005] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:00:41.263] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:00:41.269] [INFO] default - End of the automation test Execution
+[2017-11-13 17:00:42.877] [INFO] default - Validating 200to be 200
+[2017-11-13 17:02:37.449] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:02:37.704] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:02:37.710] [INFO] default - End of the automation test Execution
+[2017-11-13 17:02:39.085] [INFO] default - Validating 200to be 200
+[2017-11-13 17:02:39.087] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 17:02:39.088] [INFO] default - Validating 200to be 200
+[2017-11-13 17:02:39.088] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 17:03:30.622] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:03:30.883] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:03:30.898] [INFO] default - End of the automation test Execution
+[2017-11-13 17:03:32.263] [INFO] default - Validating 200to be 200
+[2017-11-13 17:04:33.278] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:04:33.541] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:04:33.557] [INFO] default - End of the automation test Execution
+[2017-11-13 17:04:34.872] [INFO] default - Validating 200to be 200
+[2017-11-13 17:06:56.686] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:06:56.957] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:06:56.964] [INFO] default - End of the automation test Execution
+[2017-11-13 17:06:58.532] [INFO] default - Validating 200to be 200
+[2017-11-13 17:06:58.533] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 17:06:58.533] [INFO] default - Validating 200to be 200
+[2017-11-13 17:06:58.534] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 17:11:23.070] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:11:23.324] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:11:23.342] [INFO] default - End of the automation test Execution
+[2017-11-13 17:11:24.703] [INFO] default - Validating 200to be 200
+[2017-11-13 17:11:24.706] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 17:11:24.708] [INFO] default - Validating 200to be 200
+[2017-11-13 17:11:24.709] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 17:11:24.709] [INFO] default - Validating 200to be 200
+[2017-11-13 17:11:24.710] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 17:11:24.710] [INFO] default - Validating 200to be 200
+[2017-11-13 17:11:24.710] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 17:11:24.711] [INFO] default - Validating 200to be 200
+[2017-11-13 17:11:24.711] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 17:11:24.712] [INFO] default - Validating 200to be 200
+[2017-11-13 17:11:24.712] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 17:12:26.133] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:12:26.392] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:12:26.399] [INFO] default - End of the automation test Execution
+[2017-11-13 17:13:05.371] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:13:05.641] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:13:05.658] [INFO] default - End of the automation test Execution
+[2017-11-13 17:13:17.068] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:13:17.334] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:13:17.350] [INFO] default - End of the automation test Execution
+[2017-11-13 17:13:19.279] [INFO] default - Validating 200to be 200
+[2017-11-13 17:13:19.282] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 17:13:19.284] [INFO] default - Validating 200to be 200
+[2017-11-13 17:13:19.285] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 17:13:19.286] [INFO] default - Validating 200to be 200
+[2017-11-13 17:13:19.286] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 17:13:19.287] [INFO] default - Validating 200to be 200
+[2017-11-13 17:13:19.287] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 17:13:19.289] [INFO] default - Validating 200to be 200
+[2017-11-13 17:13:19.289] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 17:13:19.290] [INFO] default - Validating 200to be 200
+[2017-11-13 17:13:19.290] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 17:13:19.290] [INFO] default - Validating 200to be 200
+[2017-11-13 17:13:19.291] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 17:15:08.559] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:15:08.815] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:15:08.830] [INFO] default - End of the automation test Execution
+[2017-11-13 17:15:10.186] [INFO] default - Validating 200to be 200
+[2017-11-13 17:15:10.188] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 17:15:10.190] [INFO] default - Validating 200to be 200
+[2017-11-13 17:15:10.191] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 17:15:10.196] [INFO] default - Validating 200to be 200
+[2017-11-13 17:15:10.197] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 17:15:10.198] [INFO] default - Validating 200to be 200
+[2017-11-13 17:15:10.198] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 17:15:10.199] [INFO] default - Validating 200to be 200
+[2017-11-13 17:15:10.199] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 17:15:10.200] [INFO] default - Validating 200to be 200
+[2017-11-13 17:15:10.201] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 17:15:10.203] [INFO] default - Validating 200to be 200
+[2017-11-13 17:15:10.203] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 17:24:19.495] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:24:19.758] [INFO] default - End of the automation test Execution
+[2017-11-13 17:24:59.364] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:24:59.626] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:24:59.632] [INFO] default - End of the automation test Execution
+[2017-11-13 17:25:01.218] [INFO] default - Validating 200to be 200
+[2017-11-13 17:25:01.221] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 17:25:01.223] [INFO] default - Validating 200to be 200
+[2017-11-13 17:25:01.224] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 17:25:01.225] [INFO] default - Validating 200to be 200
+[2017-11-13 17:25:01.226] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 17:25:01.228] [INFO] default - Validating 200to be 200
+[2017-11-13 17:25:01.228] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 17:25:01.229] [INFO] default - Validating 200to be 200
+[2017-11-13 17:25:01.229] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 17:25:01.231] [INFO] default - Validating 200to be 200
+[2017-11-13 17:25:01.231] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 17:25:01.235] [INFO] default - Validating 200to be 200
+[2017-11-13 17:25:01.235] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 17:51:28.331] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:51:28.596] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:51:28.602] [INFO] default - End of the automation test Execution
+[2017-11-13 17:51:30.044] [INFO] default - Validating 200to be 200
+[2017-11-13 17:51:30.047] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 17:51:30.049] [INFO] default - Validating 200to be 200
+[2017-11-13 17:51:30.049] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 17:51:30.052] [INFO] default - Validating 200to be 200
+[2017-11-13 17:51:30.052] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 17:51:30.053] [INFO] default - Validating 200to be 200
+[2017-11-13 17:51:30.053] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 17:51:30.056] [INFO] default - Validating 200to be 200
+[2017-11-13 17:51:30.056] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 17:51:30.057] [INFO] default - Validating 200to be 200
+[2017-11-13 17:51:30.058] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 17:51:30.313] [INFO] default - Validating 200to be 200
+[2017-11-13 17:51:30.313] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 17:52:38.817] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:52:39.081] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:52:39.087] [INFO] default - End of the automation test Execution
+[2017-11-13 17:52:39.853] [ERROR] default - Error - TypeError: Cannot read property 'data' of undefined
+[2017-11-13 17:53:51.239] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:53:51.507] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:53:51.521] [INFO] default - End of the automation test Execution
+[2017-11-13 17:53:52.258] [ERROR] default - Error - TypeError: Cannot read property 'data' of undefined
+[2017-11-13 17:53:52.649] [ERROR] default - Error - TypeError: Cannot read property 'data' of undefined
+[2017-11-13 17:54:35.432] [INFO] default - Start of the automation test Execution
+[2017-11-13 17:54:35.685] [INFO] default - In fnExcelGetInstance
+[2017-11-13 17:54:35.699] [INFO] default - End of the automation test Execution
+[2017-11-13 17:54:36.449] [ERROR] default - Error - TypeError: Cannot read property 'data' of undefined
+[2017-11-13 18:29:18.652] [INFO] default - Start of the automation test Execution
+[2017-11-13 18:29:18.911] [INFO] default - In fnExcelGetInstance
+[2017-11-13 18:29:18.927] [INFO] default - End of the automation test Execution
+[2017-11-13 18:29:21.552] [INFO] default - Validating 200to be 200
+[2017-11-13 18:29:21.556] [INFO] default - Validating 200to be 200
+[2017-11-13 18:29:21.556] [INFO] default - Validating 200to be 200
+[2017-11-13 18:29:21.558] [INFO] default - Validating 200to be 200
+[2017-11-13 18:29:21.559] [INFO] default - Validating 200to be 200
+[2017-11-13 18:29:21.564] [INFO] default - Validating 200to be 200
+[2017-11-13 18:29:21.567] [INFO] default - Validating 200to be 200
+[2017-11-13 18:31:19.580] [INFO] default - Start of the automation test Execution
+[2017-11-13 18:31:19.830] [INFO] default - In fnExcelGetInstance
+[2017-11-13 18:31:19.845] [INFO] default - End of the automation test Execution
+[2017-11-13 18:31:46.422] [INFO] default - Start of the automation test Execution
+[2017-11-13 18:31:46.683] [INFO] default - In fnExcelGetInstance
+[2017-11-13 18:31:46.689] [INFO] default - End of the automation test Execution
+[2017-11-13 18:31:48.139] [INFO] default - Validating 200to be 200
+[2017-11-13 18:31:48.142] [INFO] default - Validating 200to be 200
+[2017-11-13 18:31:48.143] [INFO] default - Validating 200to be 200
+[2017-11-13 18:31:48.143] [INFO] default - Validating 200to be 200
+[2017-11-13 18:31:48.144] [INFO] default - Validating 200to be 200
+[2017-11-13 18:31:48.144] [INFO] default - Validating 200to be 200
+[2017-11-13 18:31:48.149] [INFO] default - Validating 200to be 200
+[2017-11-13 18:33:58.526] [INFO] default - Start of the automation test Execution
+[2017-11-13 18:33:58.780] [INFO] default - In fnExcelGetInstance
+[2017-11-13 18:33:58.795] [INFO] default - End of the automation test Execution
+[2017-11-13 18:34:00.203] [INFO] default - Validating 200to be 200
+[2017-11-13 18:34:00.207] [INFO] default - Validating 200to be 200
+[2017-11-13 18:34:00.208] [INFO] default - Validating 200to be 200
+[2017-11-13 18:34:00.208] [INFO] default - Validating 200to be 200
+[2017-11-13 18:34:00.209] [INFO] default - Validating 200to be 200
+[2017-11-13 18:34:00.219] [INFO] default - Validating 200to be 200
+[2017-11-13 18:34:00.223] [INFO] default - Validating 200to be 200
+[2017-11-13 18:35:54.020] [INFO] default - Start of the automation test Execution
+[2017-11-13 18:35:54.271] [INFO] default - In fnExcelGetInstance
+[2017-11-13 18:35:54.288] [INFO] default - End of the automation test Execution
+[2017-11-13 18:35:55.933] [INFO] default - Validating 200to be 200
+[2017-11-13 18:35:55.935] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 18:35:55.937] [INFO] default - Validating 200to be 200
+[2017-11-13 18:35:55.937] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 18:35:55.938] [INFO] default - Validating 200to be 200
+[2017-11-13 18:35:55.938] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 18:35:55.939] [INFO] default - Validating 200to be 200
+[2017-11-13 18:35:55.939] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 18:35:55.940] [INFO] default - Validating 200to be 200
+[2017-11-13 18:35:55.940] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 18:35:55.941] [INFO] default - Validating 200to be 200
+[2017-11-13 18:35:55.941] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 20:16:25.567] [INFO] default - Start of the automation test Execution
+[2017-11-13 20:16:25.835] [INFO] default - In fnExcelGetInstance
+[2017-11-13 20:16:25.842] [INFO] default - End of the automation test Execution
+[2017-11-13 20:16:28.560] [INFO] default - Validating 200to be 200
+[2017-11-13 20:16:28.562] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 20:16:28.564] [INFO] default - Validating 200to be 200
+[2017-11-13 20:16:28.565] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 20:16:28.566] [INFO] default - Validating 200to be 200
+[2017-11-13 20:16:28.566] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 20:16:28.567] [INFO] default - Validating 200to be 200
+[2017-11-13 20:16:28.567] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 20:16:28.568] [INFO] default - Validating 200to be 200
+[2017-11-13 20:16:28.569] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 20:16:28.569] [INFO] default - Validating 200to be 200
+[2017-11-13 20:16:28.570] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 20:16:28.575] [INFO] default - Validating 200to be 200
+[2017-11-13 20:16:28.576] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 20:17:24.754] [INFO] default - Start of the automation test Execution
+[2017-11-13 20:17:25.020] [INFO] default - In fnExcelGetInstance
+[2017-11-13 20:17:25.036] [INFO] default - End of the automation test Execution
+[2017-11-13 20:17:25.849] [ERROR] default - Error - TypeError: Cannot read property 'length' of undefined
+[2017-11-13 20:17:25.851] [ERROR] default - Error - TypeError: Cannot read property 'length' of undefined
+[2017-11-13 20:17:25.851] [ERROR] default - Error - TypeError: Cannot read property 'length' of undefined
+[2017-11-13 20:17:25.852] [ERROR] default - Error - TypeError: Cannot read property 'length' of undefined
+[2017-11-13 20:17:25.852] [ERROR] default - Error - TypeError: Cannot read property 'length' of undefined
+[2017-11-13 20:17:25.852] [ERROR] default - Error - TypeError: Cannot read property 'length' of undefined
+[2017-11-13 20:17:25.866] [ERROR] default - Error - TypeError: Cannot read property 'length' of undefined
+[2017-11-13 20:17:26.432] [INFO] default - Validating 200to be 200
+[2017-11-13 20:17:26.433] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 20:17:26.435] [INFO] default - Validating 200to be 200
+[2017-11-13 20:17:26.435] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 20:17:26.445] [INFO] default - Validating 200to be 200
+[2017-11-13 20:17:26.446] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 20:17:26.447] [INFO] default - Validating 200to be 200
+[2017-11-13 20:17:26.448] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 20:17:26.451] [INFO] default - Validating 200to be 200
+[2017-11-13 20:17:26.451] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 20:17:26.451] [INFO] default - Validating 200to be 200
+[2017-11-13 20:17:26.452] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 20:17:26.452] [INFO] default - Validating 200to be 200
+[2017-11-13 20:17:26.452] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 20:36:59.995] [INFO] default - Start of the automation test Execution
+[2017-11-13 20:37:00.249] [INFO] default - In fnExcelGetInstance
+[2017-11-13 20:37:00.255] [INFO] default - End of the automation test Execution
+[2017-11-13 20:37:01.008] [ERROR] default - Error - TypeError: this.fnWriteExcel is not a function
+[2017-11-13 20:37:01.010] [ERROR] default - Error - TypeError: this.fnWriteExcel is not a function
+[2017-11-13 20:37:01.011] [ERROR] default - Error - TypeError: this.fnWriteExcel is not a function
+[2017-11-13 20:37:01.011] [ERROR] default - Error - TypeError: this.fnWriteExcel is not a function
+[2017-11-13 20:37:01.011] [ERROR] default - Error - TypeError: this.fnWriteExcel is not a function
+[2017-11-13 20:37:01.011] [ERROR] default - Error - TypeError: this.fnWriteExcel is not a function
+[2017-11-13 20:37:01.038] [ERROR] default - Error - TypeError: this.fnWriteExcel is not a function
+[2017-11-13 20:37:01.891] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:01.892] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 20:37:01.893] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:01.894] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 20:37:01.894] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:01.894] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 20:37:01.895] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:01.895] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 20:37:01.896] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:01.896] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 20:37:01.896] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:01.897] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 20:37:01.900] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:01.901] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 20:37:52.031] [INFO] default - Start of the automation test Execution
+[2017-11-13 20:37:52.298] [INFO] default - In fnExcelGetInstance
+[2017-11-13 20:37:52.314] [INFO] default - End of the automation test Execution
+[2017-11-13 20:37:53.586] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:53.587] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 20:37:53.589] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:53.589] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 20:37:53.590] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:53.590] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 20:37:53.591] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:53.592] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-13 20:37:53.593] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:53.594] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 20:37:53.597] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:53.597] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 20:37:53.600] [INFO] default - Validating 200to be 200
+[2017-11-13 20:37:53.600] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 21:18:11.523] [INFO] default - Start of the automation test Execution
+[2017-11-13 21:18:11.783] [INFO] default - In fnExcelGetInstance
+[2017-11-13 21:18:11.798] [INFO] default - End of the automation test Execution
+[2017-11-13 21:18:14.119] [INFO] default - Validating 200to be 200
+[2017-11-13 21:18:14.121] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-13 21:18:14.123] [INFO] default - Validating 200to be 200
+[2017-11-13 21:18:14.123] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-13 21:18:14.124] [INFO] default - Validating 200to be 200
+[2017-11-13 21:18:14.124] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-13 21:18:14.125] [INFO] default - Validating 200to be 200
+[2017-11-13 21:18:14.125] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-13 21:18:14.126] [INFO] default - Validating 200to be 200
+[2017-11-13 21:18:14.126] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-13 21:18:14.127] [INFO] default - Validating 200to be 200
+[2017-11-13 21:18:14.127] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-13 21:18:14.303] [INFO] default - Validating 200to be 200
+[2017-11-13 21:18:14.304] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 11:42:42.148] [INFO] default - Start of the automation test Execution
+[2017-11-14 11:42:42.423] [INFO] default - In fnExcelGetInstance
+[2017-11-14 11:42:42.438] [INFO] default - End of the automation test Execution
+[2017-11-14 11:42:43.143] [ERROR] default - Error - ReferenceError: colValues is not defined
+[2017-11-14 11:42:43.146] [ERROR] default - Error - ReferenceError: colValues is not defined
+[2017-11-14 11:42:43.146] [ERROR] default - Error - ReferenceError: colValues is not defined
+[2017-11-14 11:42:43.146] [ERROR] default - Error - ReferenceError: colValues is not defined
+[2017-11-14 11:42:43.146] [ERROR] default - Error - ReferenceError: colValues is not defined
+[2017-11-14 11:42:43.898] [ERROR] default - Error - ReferenceError: colValues is not defined
+[2017-11-14 11:42:43.898] [ERROR] default - Error - ReferenceError: colValues is not defined
+[2017-11-14 11:43:36.634] [INFO] default - Start of the automation test Execution
+[2017-11-14 11:43:36.893] [INFO] default - In fnExcelGetInstance
+[2017-11-14 11:43:36.909] [INFO] default - End of the automation test Execution
+[2017-11-14 11:43:38.318] [INFO] default - Validating 200to be 200
+[2017-11-14 11:43:38.320] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 11:43:38.322] [INFO] default - Validating 200to be 200
+[2017-11-14 11:43:38.323] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 11:43:38.324] [INFO] default - Validating 200to be 200
+[2017-11-14 11:43:38.324] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 11:43:38.324] [INFO] default - Validating 200to be 200
+[2017-11-14 11:43:38.325] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 11:43:38.326] [INFO] default - Validating 200to be 200
+[2017-11-14 11:43:38.326] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 11:43:38.327] [INFO] default - Validating 200to be 200
+[2017-11-14 11:43:38.327] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 11:45:03.343] [INFO] default - Start of the automation test Execution
+[2017-11-14 11:45:03.606] [INFO] default - In fnExcelGetInstance
+[2017-11-14 11:45:03.622] [INFO] default - End of the automation test Execution
+[2017-11-14 11:45:04.416] [ERROR] default - Error - TypeError: Cannot read property '10' of undefined
+[2017-11-14 11:45:04.418] [ERROR] default - Error - TypeError: Cannot read property '10' of undefined
+[2017-11-14 11:45:04.418] [ERROR] default - Error - TypeError: Cannot read property '10' of undefined
+[2017-11-14 11:45:04.419] [ERROR] default - Error - TypeError: Cannot read property '10' of undefined
+[2017-11-14 11:45:04.419] [ERROR] default - Error - TypeError: Cannot read property '10' of undefined
+[2017-11-14 11:45:04.419] [ERROR] default - Error - TypeError: Cannot read property '10' of undefined
+[2017-11-14 11:45:04.442] [ERROR] default - Error - TypeError: Cannot read property '10' of undefined
+[2017-11-14 11:45:05.018] [INFO] default - Validating 200to be 200
+[2017-11-14 11:45:05.019] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 11:45:05.021] [INFO] default - Validating 200to be 200
+[2017-11-14 11:45:05.022] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 11:45:05.022] [INFO] default - Validating 200to be 200
+[2017-11-14 11:45:05.023] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 11:45:05.024] [INFO] default - Validating 200to be 200
+[2017-11-14 11:45:05.025] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 11:45:05.025] [INFO] default - Validating 200to be 200
+[2017-11-14 11:45:05.025] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 11:45:05.026] [INFO] default - Validating 200to be 200
+[2017-11-14 11:45:05.026] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 11:45:05.027] [INFO] default - Validating 200to be 200
+[2017-11-14 11:45:05.027] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 11:46:23.099] [INFO] default - Start of the automation test Execution
+[2017-11-14 11:46:23.358] [INFO] default - In fnExcelGetInstance
+[2017-11-14 11:46:23.363] [INFO] default - End of the automation test Execution
+[2017-11-14 11:46:24.736] [INFO] default - Validating 200to be 200
+[2017-11-14 11:46:24.738] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 11:46:24.741] [INFO] default - Validating 200to be 200
+[2017-11-14 11:46:24.742] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 11:46:24.743] [INFO] default - Validating 200to be 200
+[2017-11-14 11:46:24.743] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 11:46:24.743] [INFO] default - Validating 200to be 200
+[2017-11-14 11:46:24.744] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 11:46:24.744] [INFO] default - Validating 200to be 200
+[2017-11-14 11:46:24.744] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 11:46:24.746] [INFO] default - Validating 200to be 200
+[2017-11-14 11:46:24.746] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 11:49:45.771] [INFO] default - Start of the automation test Execution
+[2017-11-14 11:49:46.025] [INFO] default - In fnExcelGetInstance
+[2017-11-14 11:49:46.031] [INFO] default - End of the automation test Execution
+[2017-11-14 11:49:47.709] [INFO] default - Validating 200to be 200
+[2017-11-14 11:49:47.712] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 11:49:47.714] [INFO] default - Validating 200to be 200
+[2017-11-14 11:49:47.715] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 11:49:47.716] [INFO] default - Validating 200to be 200
+[2017-11-14 11:49:47.716] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 11:49:47.716] [INFO] default - Validating 200to be 200
+[2017-11-14 11:49:47.717] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 11:49:47.718] [INFO] default - Validating 200to be 200
+[2017-11-14 11:49:47.718] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 11:49:47.719] [INFO] default - Validating 200to be 200
+[2017-11-14 11:49:47.720] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 11:52:23.527] [INFO] default - Start of the automation test Execution
+[2017-11-14 11:52:23.794] [INFO] default - In fnExcelGetInstance
+[2017-11-14 11:52:23.800] [INFO] default - End of the automation test Execution
+[2017-11-14 11:52:25.169] [INFO] default - Validating 200to be 200
+[2017-11-14 11:52:25.171] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 11:52:25.177] [INFO] default - Validating 200to be 200
+[2017-11-14 11:52:25.177] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 11:52:25.179] [INFO] default - Validating 200to be 200
+[2017-11-14 11:52:25.179] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 11:52:25.180] [INFO] default - Validating 200to be 200
+[2017-11-14 11:52:25.180] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 11:52:25.181] [INFO] default - Validating 200to be 200
+[2017-11-14 11:52:25.181] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 11:52:25.186] [INFO] default - Validating 200to be 200
+[2017-11-14 11:52:25.186] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 11:54:32.413] [INFO] default - Start of the automation test Execution
+[2017-11-14 11:54:32.675] [INFO] default - In fnExcelGetInstance
+[2017-11-14 11:54:32.682] [INFO] default - End of the automation test Execution
+[2017-11-14 11:54:34.126] [INFO] default - Validating 200to be 200
+[2017-11-14 11:54:34.129] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 11:54:34.131] [INFO] default - Validating 200to be 200
+[2017-11-14 11:54:34.132] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 11:54:34.132] [INFO] default - Validating 200to be 200
+[2017-11-14 11:54:34.133] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 11:54:34.134] [INFO] default - Validating 200to be 200
+[2017-11-14 11:54:34.134] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 11:54:34.135] [INFO] default - Validating 200to be 200
+[2017-11-14 11:54:34.135] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 11:54:59.628] [INFO] default - Start of the automation test Execution
+[2017-11-14 11:54:59.894] [INFO] default - In fnExcelGetInstance
+[2017-11-14 11:54:59.911] [INFO] default - End of the automation test Execution
+[2017-11-14 11:55:01.291] [INFO] default - Validating 200to be 200
+[2017-11-14 11:55:01.294] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 11:55:01.296] [INFO] default - Validating 200to be 200
+[2017-11-14 11:55:01.297] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 11:55:01.297] [INFO] default - Validating 200to be 200
+[2017-11-14 11:55:01.298] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 11:55:01.299] [INFO] default - Validating 200to be 200
+[2017-11-14 11:55:01.299] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 11:55:01.299] [INFO] default - Validating 200to be 200
+[2017-11-14 11:55:01.300] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 11:55:01.306] [INFO] default - Validating 200to be 200
+[2017-11-14 11:55:01.306] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 11:55:01.308] [INFO] default - Validating 200to be 200
+[2017-11-14 11:55:01.308] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:01:27.294] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:01:27.559] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:01:27.575] [INFO] default - End of the automation test Execution
+[2017-11-14 12:01:29.221] [INFO] default - Validating 200to be 200
+[2017-11-14 12:01:29.223] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:01:29.226] [INFO] default - Validating 200to be 200
+[2017-11-14 12:01:29.226] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:01:29.227] [INFO] default - Validating 200to be 200
+[2017-11-14 12:01:29.227] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:01:29.228] [INFO] default - Validating 200to be 200
+[2017-11-14 12:01:29.228] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:01:29.229] [INFO] default - Validating 200to be 200
+[2017-11-14 12:01:29.229] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:01:29.230] [INFO] default - Validating 200to be 200
+[2017-11-14 12:01:29.230] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:01:29.231] [INFO] default - Validating 200to be 200
+[2017-11-14 12:01:29.231] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:04:44.339] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:04:44.600] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:04:44.615] [INFO] default - End of the automation test Execution
+[2017-11-14 12:04:45.937] [INFO] default - Validating 200to be 200
+[2017-11-14 12:04:45.939] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:04:45.941] [INFO] default - Validating 200to be 200
+[2017-11-14 12:04:45.942] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:04:45.943] [INFO] default - Validating 200to be 200
+[2017-11-14 12:04:45.943] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:04:45.944] [INFO] default - Validating 200to be 200
+[2017-11-14 12:04:45.944] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:04:45.945] [INFO] default - Validating 200to be 200
+[2017-11-14 12:04:45.945] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:04:45.946] [INFO] default - Validating 200to be 200
+[2017-11-14 12:04:45.947] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:04:45.948] [INFO] default - Validating 200to be 200
+[2017-11-14 12:04:45.949] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:05:48.881] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:05:49.138] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:05:49.143] [INFO] default - End of the automation test Execution
+[2017-11-14 12:05:50.530] [INFO] default - Validating 200to be 200
+[2017-11-14 12:05:50.533] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:05:50.535] [INFO] default - Validating 200to be 200
+[2017-11-14 12:05:50.536] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:05:50.537] [INFO] default - Validating 200to be 200
+[2017-11-14 12:05:50.537] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:05:50.538] [INFO] default - Validating 200to be 200
+[2017-11-14 12:05:50.538] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:05:50.539] [INFO] default - Validating 200to be 200
+[2017-11-14 12:05:50.539] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:05:50.542] [INFO] default - Validating 200to be 200
+[2017-11-14 12:05:50.542] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:05:50.557] [INFO] default - Validating 200to be 200
+[2017-11-14 12:05:50.558] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:06:42.361] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:06:42.623] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:06:42.628] [INFO] default - End of the automation test Execution
+[2017-11-14 12:06:44.284] [INFO] default - Validating 200to be 200
+[2017-11-14 12:07:13.714] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:07:13.968] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:07:13.984] [INFO] default - End of the automation test Execution
+[2017-11-14 12:07:15.349] [INFO] default - Validating 200to be 200
+[2017-11-14 12:07:15.351] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:07:15.354] [INFO] default - Validating 200to be 200
+[2017-11-14 12:07:15.355] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:07:15.356] [INFO] default - Validating 200to be 200
+[2017-11-14 12:07:15.356] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:07:15.358] [INFO] default - Validating 200to be 200
+[2017-11-14 12:07:15.358] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:07:15.359] [INFO] default - Validating 200to be 200
+[2017-11-14 12:07:15.360] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:07:15.361] [INFO] default - Validating 200to be 200
+[2017-11-14 12:07:15.361] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:07:15.368] [INFO] default - Validating 200to be 200
+[2017-11-14 12:07:15.368] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:08:43.721] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:08:43.974] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:08:43.989] [INFO] default - End of the automation test Execution
+[2017-11-14 12:08:45.393] [INFO] default - Validating 200to be 200
+[2017-11-14 12:08:45.395] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:08:45.398] [INFO] default - Validating 200to be 200
+[2017-11-14 12:08:45.398] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:08:45.399] [INFO] default - Validating 200to be 200
+[2017-11-14 12:08:45.399] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:08:45.400] [INFO] default - Validating 200to be 200
+[2017-11-14 12:08:45.401] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:08:45.401] [INFO] default - Validating 200to be 200
+[2017-11-14 12:08:45.402] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:08:45.404] [INFO] default - Validating 200to be 200
+[2017-11-14 12:08:45.404] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:08:45.407] [INFO] default - Validating 200to be 200
+[2017-11-14 12:08:45.407] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:11:03.518] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:11:03.780] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:11:03.786] [INFO] default - End of the automation test Execution
+[2017-11-14 12:11:05.219] [INFO] default - Validating 200to be 200
+[2017-11-14 12:11:44.390] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:11:44.657] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:11:44.674] [INFO] default - End of the automation test Execution
+[2017-11-14 12:11:46.312] [INFO] default - Validating 200to be 200
+[2017-11-14 12:11:46.315] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:11:46.320] [INFO] default - Validating 200to be 200
+[2017-11-14 12:11:46.321] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:11:46.322] [INFO] default - Validating 200to be 200
+[2017-11-14 12:11:46.323] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:11:46.324] [INFO] default - Validating 200to be 200
+[2017-11-14 12:11:46.324] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:11:46.326] [INFO] default - Validating 200to be 200
+[2017-11-14 12:11:46.326] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:11:46.328] [INFO] default - Validating 200to be 200
+[2017-11-14 12:11:46.328] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:11:46.330] [INFO] default - Validating 200to be 200
+[2017-11-14 12:11:46.330] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:19:55.735] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:19:55.989] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:19:56.004] [INFO] default - End of the automation test Execution
+[2017-11-14 12:19:57.636] [INFO] default - Validating 200to be 200
+[2017-11-14 12:19:57.638] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:19:57.642] [INFO] default - Validating 200to be 200
+[2017-11-14 12:19:57.642] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:19:57.644] [INFO] default - Validating 200to be 200
+[2017-11-14 12:19:57.644] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:19:57.646] [INFO] default - Validating 200to be 200
+[2017-11-14 12:19:57.646] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:19:57.647] [INFO] default - Validating 200to be 200
+[2017-11-14 12:19:57.648] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:19:57.649] [INFO] default - Validating 200to be 200
+[2017-11-14 12:19:57.649] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:29:10.708] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:29:10.974] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:29:10.989] [INFO] default - End of the automation test Execution
+[2017-11-14 12:29:12.397] [INFO] default - Validating 200to be 200
+[2017-11-14 12:29:12.400] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:29:12.404] [INFO] default - Validating 200to be 200
+[2017-11-14 12:29:12.404] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:29:12.406] [INFO] default - Validating 200to be 200
+[2017-11-14 12:29:12.406] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:29:12.407] [INFO] default - Validating 200to be 200
+[2017-11-14 12:29:12.408] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:29:12.643] [INFO] default - Validating 200to be 200
+[2017-11-14 12:29:12.644] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:29:12.656] [INFO] default - Validating 200to be 200
+[2017-11-14 12:29:12.657] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:29:12.659] [INFO] default - Validating 200to be 200
+[2017-11-14 12:29:12.659] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:30:26.395] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:30:26.664] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:30:26.679] [INFO] default - End of the automation test Execution
+[2017-11-14 12:30:28.056] [INFO] default - Validating 200to be 200
+[2017-11-14 12:30:28.059] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:30:28.064] [INFO] default - Validating 200to be 200
+[2017-11-14 12:30:28.064] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:30:28.066] [INFO] default - Validating 200to be 200
+[2017-11-14 12:30:28.066] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:30:28.067] [INFO] default - Validating 200to be 200
+[2017-11-14 12:30:28.067] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:30:28.068] [INFO] default - Validating 200to be 200
+[2017-11-14 12:30:28.069] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:30:28.070] [INFO] default - Validating 200to be 200
+[2017-11-14 12:30:28.070] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:30:28.072] [INFO] default - Validating 200to be 200
+[2017-11-14 12:30:28.072] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:31:41.367] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:31:41.629] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:31:41.645] [INFO] default - End of the automation test Execution
+[2017-11-14 12:31:43.042] [INFO] default - Validating 200to be 200
+[2017-11-14 12:31:43.044] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:31:43.046] [INFO] default - Validating 200to be 200
+[2017-11-14 12:31:43.047] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:31:43.048] [INFO] default - Validating 200to be 200
+[2017-11-14 12:31:43.048] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:31:43.049] [INFO] default - Validating 200to be 200
+[2017-11-14 12:31:43.049] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:31:43.050] [INFO] default - Validating 200to be 200
+[2017-11-14 12:31:43.050] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:31:43.051] [INFO] default - Validating 200to be 200
+[2017-11-14 12:31:43.052] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:31:43.052] [INFO] default - Validating 200to be 200
+[2017-11-14 12:31:43.053] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:34:43.129] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:34:43.383] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:34:43.398] [INFO] default - End of the automation test Execution
+[2017-11-14 12:34:45.060] [INFO] default - Validating 200to be 200
+[2017-11-14 12:35:15.168] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:35:15.434] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:35:15.440] [INFO] default - End of the automation test Execution
+[2017-11-14 12:35:16.828] [INFO] default - Validating 200to be 200
+[2017-11-14 12:35:16.830] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:35:16.832] [INFO] default - Validating 200to be 200
+[2017-11-14 12:35:16.833] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:35:16.841] [INFO] default - Validating 200to be 200
+[2017-11-14 12:35:16.842] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:35:16.843] [INFO] default - Validating 200to be 200
+[2017-11-14 12:35:16.843] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:35:16.847] [INFO] default - Validating 200to be 200
+[2017-11-14 12:35:16.847] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:35:16.851] [INFO] default - Validating 200to be 200
+[2017-11-14 12:35:16.851] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:35:16.853] [INFO] default - Validating 200to be 200
+[2017-11-14 12:35:16.853] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:37:10.765] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:37:11.015] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:37:11.031] [INFO] default - End of the automation test Execution
+[2017-11-14 12:37:57.911] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:37:58.168] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:37:58.184] [INFO] default - End of the automation test Execution
+[2017-11-14 12:38:00.070] [INFO] default - Validating 200to be 200
+[2017-11-14 12:38:00.073] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:38:00.075] [INFO] default - Validating 200to be 200
+[2017-11-14 12:38:00.076] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:38:00.076] [INFO] default - Validating 200to be 200
+[2017-11-14 12:38:00.077] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:38:00.077] [INFO] default - Validating 200to be 200
+[2017-11-14 12:38:00.078] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:38:00.078] [INFO] default - Validating 200to be 200
+[2017-11-14 12:38:00.079] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:38:00.084] [INFO] default - Validating 200to be 200
+[2017-11-14 12:38:00.084] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:38:00.086] [INFO] default - Validating 200to be 200
+[2017-11-14 12:38:00.086] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:41:02.460] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:41:02.719] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:41:02.736] [INFO] default - End of the automation test Execution
+[2017-11-14 12:41:04.350] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:04.353] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:41:04.355] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:04.355] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:41:04.356] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:04.357] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:41:04.357] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:04.358] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:41:04.358] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:04.359] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:41:04.360] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:04.360] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:41:04.361] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:04.361] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:41:42.977] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:41:43.228] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:41:43.234] [INFO] default - End of the automation test Execution
+[2017-11-14 12:41:44.569] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:44.571] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:41:44.573] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:44.574] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:41:44.574] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:44.575] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:41:44.575] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:44.576] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:41:44.576] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:44.577] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:41:44.582] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:44.582] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:41:44.583] [INFO] default - Validating 200to be 200
+[2017-11-14 12:41:44.583] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:42:38.643] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:42:38.895] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:42:38.911] [INFO] default - End of the automation test Execution
+[2017-11-14 12:42:40.284] [INFO] default - Validating 200to be 200
+[2017-11-14 12:42:40.287] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:42:40.289] [INFO] default - Validating 200to be 200
+[2017-11-14 12:42:40.290] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:42:40.291] [INFO] default - Validating 200to be 200
+[2017-11-14 12:42:40.291] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:42:40.300] [INFO] default - Validating 200to be 200
+[2017-11-14 12:42:40.301] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:42:40.310] [INFO] default - Validating 200to be 200
+[2017-11-14 12:42:40.311] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:42:40.335] [INFO] default - Validating 200to be 200
+[2017-11-14 12:42:40.335] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:42:40.339] [INFO] default - Validating 200to be 200
+[2017-11-14 12:42:40.340] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:43:44.660] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:43:44.913] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:43:44.929] [INFO] default - End of the automation test Execution
+[2017-11-14 12:43:46.878] [INFO] default - Validating 200to be 200
+[2017-11-14 12:43:46.880] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:43:46.884] [INFO] default - Validating 200to be 200
+[2017-11-14 12:43:46.885] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:43:46.887] [INFO] default - Validating 200to be 200
+[2017-11-14 12:43:46.887] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:43:46.889] [INFO] default - Validating 200to be 200
+[2017-11-14 12:43:46.889] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:43:46.891] [INFO] default - Validating 200to be 200
+[2017-11-14 12:43:46.892] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:43:46.894] [INFO] default - Validating 200to be 200
+[2017-11-14 12:43:46.894] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:45:07.857] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:45:08.114] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:45:08.130] [INFO] default - End of the automation test Execution
+[2017-11-14 12:45:09.522] [INFO] default - Validating 200to be 200
+[2017-11-14 12:45:09.524] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:45:09.529] [INFO] default - Validating 200to be 200
+[2017-11-14 12:45:09.529] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:45:09.530] [INFO] default - Validating 200to be 200
+[2017-11-14 12:45:09.531] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:45:09.532] [INFO] default - Validating 200to be 200
+[2017-11-14 12:45:09.532] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:46:51.754] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:46:52.021] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:46:52.026] [INFO] default - End of the automation test Execution
+[2017-11-14 12:46:53.659] [INFO] default - Validating 200to be 200
+[2017-11-14 12:46:53.661] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:46:53.665] [INFO] default - Validating 200to be 200
+[2017-11-14 12:46:53.666] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:46:53.667] [INFO] default - Validating 200to be 200
+[2017-11-14 12:46:53.667] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:46:53.669] [INFO] default - Validating 200to be 200
+[2017-11-14 12:46:53.670] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:46:53.671] [INFO] default - Validating 200to be 200
+[2017-11-14 12:46:53.671] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:46:53.678] [INFO] default - Validating 200to be 200
+[2017-11-14 12:46:53.679] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:50:08.342] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:50:08.605] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:50:08.611] [INFO] default - End of the automation test Execution
+[2017-11-14 12:50:09.419] [ERROR] default - Error - TypeError: Cannot read property 'id' of undefined
+[2017-11-14 12:50:09.421] [ERROR] default - Error - TypeError: Cannot read property 'id' of undefined
+[2017-11-14 12:50:09.422] [ERROR] default - Error - TypeError: Cannot read property 'id' of undefined
+[2017-11-14 12:50:09.422] [ERROR] default - Error - TypeError: Cannot read property 'id' of undefined
+[2017-11-14 12:50:09.422] [ERROR] default - Error - TypeError: Cannot read property 'id' of undefined
+[2017-11-14 12:50:09.422] [ERROR] default - Error - TypeError: Cannot read property 'id' of undefined
+[2017-11-14 12:50:09.434] [ERROR] default - Error - TypeError: Cannot read property 'id' of undefined
+[2017-11-14 12:50:10.014] [INFO] default - Validating 200to be 200
+[2017-11-14 12:50:10.015] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:50:10.018] [INFO] default - Validating 200to be 200
+[2017-11-14 12:50:10.019] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:50:10.020] [INFO] default - Validating 200to be 200
+[2017-11-14 12:50:10.020] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:50:10.021] [INFO] default - Validating 200to be 200
+[2017-11-14 12:50:10.022] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:50:10.023] [INFO] default - Validating 200to be 200
+[2017-11-14 12:50:10.023] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:53:24.009] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:53:24.267] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:53:24.283] [INFO] default - End of the automation test Execution
+[2017-11-14 12:53:25.941] [INFO] default - Validating 200to be 200
+[2017-11-14 12:53:25.943] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:53:25.945] [INFO] default - Validating 200to be 200
+[2017-11-14 12:53:25.946] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:53:25.947] [INFO] default - Validating 200to be 200
+[2017-11-14 12:53:25.947] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:53:25.948] [INFO] default - Validating 200to be 200
+[2017-11-14 12:53:25.949] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:53:25.949] [INFO] default - Validating 200to be 200
+[2017-11-14 12:53:25.950] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:53:25.950] [INFO] default - Validating 200to be 200
+[2017-11-14 12:53:25.951] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:53:25.954] [INFO] default - Validating 200to be 200
+[2017-11-14 12:53:25.954] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:57:16.788] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:57:17.053] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:57:17.069] [INFO] default - End of the automation test Execution
+[2017-11-14 12:57:18.377] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:18.378] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:57:18.380] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:18.381] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:57:18.381] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:18.381] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:57:18.382] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:18.383] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:57:18.383] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:18.383] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:57:18.384] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:18.385] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 12:57:18.386] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:18.386] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:57:39.618] [INFO] default - Start of the automation test Execution
+[2017-11-14 12:57:39.878] [INFO] default - In fnExcelGetInstance
+[2017-11-14 12:57:39.893] [INFO] default - End of the automation test Execution
+[2017-11-14 12:57:41.274] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:41.276] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 12:57:41.278] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:41.279] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 12:57:41.280] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:41.280] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 12:57:41.281] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:41.281] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 12:57:41.282] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:41.283] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 12:57:41.283] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:41.284] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 12:57:41.285] [INFO] default - Validating 200to be 200
+[2017-11-14 12:57:41.286] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 13:35:37.912] [INFO] default - Start of the automation test Execution
+[2017-11-14 13:35:38.177] [INFO] default - In fnExcelGetInstance
+[2017-11-14 13:35:38.193] [INFO] default - End of the automation test Execution
+[2017-11-14 13:35:39.628] [INFO] default - Validating 200to be 200
+[2017-11-14 13:35:39.630] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 13:35:39.633] [INFO] default - Validating 200to be 200
+[2017-11-14 13:35:39.634] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 13:35:39.634] [INFO] default - Validating 200to be 200
+[2017-11-14 13:35:39.635] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 13:35:39.635] [INFO] default - Validating 200to be 200
+[2017-11-14 13:35:39.636] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 13:35:39.636] [INFO] default - Validating 200to be 200
+[2017-11-14 13:35:39.637] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 13:35:39.884] [INFO] default - Validating 200to be 200
+[2017-11-14 13:35:39.885] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 13:35:39.886] [INFO] default - Validating 200to be 200
+[2017-11-14 13:35:39.886] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 14:13:34.921] [INFO] default - Start of the automation test Execution
+[2017-11-14 14:13:35.183] [INFO] default - In fnExcelGetInstance
+[2017-11-14 14:13:35.189] [INFO] default - End of the automation test Execution
+[2017-11-14 14:13:37.759] [INFO] default - Validating 200to be 200
+[2017-11-14 14:13:37.761] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 14:13:37.763] [INFO] default - Validating 200to be 200
+[2017-11-14 14:13:37.763] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 14:13:37.767] [INFO] default - Validating 200to be 200
+[2017-11-14 14:13:37.767] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 14:13:37.768] [INFO] default - Validating 200to be 200
+[2017-11-14 14:13:37.768] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 14:13:37.782] [INFO] default - Validating 200to be 200
+[2017-11-14 14:13:37.783] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 14:19:31.253] [INFO] default - Start of the automation test Execution
+[2017-11-14 14:19:31.515] [INFO] default - In fnExcelGetInstance
+[2017-11-14 14:19:31.531] [INFO] default - End of the automation test Execution
+[2017-11-14 14:19:33.225] [INFO] default - Validating 200to be 200
+[2017-11-14 14:19:33.228] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 14:19:33.231] [INFO] default - Validating 200to be 200
+[2017-11-14 14:19:33.232] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 14:19:33.234] [INFO] default - Validating 200to be 200
+[2017-11-14 14:19:33.234] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 14:19:33.235] [INFO] default - Validating 200to be 200
+[2017-11-14 14:19:33.235] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 14:19:33.242] [INFO] default - Validating 200to be 200
+[2017-11-14 14:19:33.243] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 14:21:17.393] [INFO] default - Start of the automation test Execution
+[2017-11-14 14:21:17.659] [INFO] default - In fnExcelGetInstance
+[2017-11-14 14:21:17.677] [INFO] default - End of the automation test Execution
+[2017-11-14 14:21:19.096] [INFO] default - Validating 200to be 200
+[2017-11-14 14:21:19.098] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 14:21:19.101] [INFO] default - Validating 200to be 200
+[2017-11-14 14:21:19.101] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 14:21:19.103] [INFO] default - Validating 200to be 200
+[2017-11-14 14:21:19.103] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 14:21:19.103] [INFO] default - Validating 200to be 200
+[2017-11-14 14:21:19.103] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 14:21:19.111] [INFO] default - Validating 200to be 200
+[2017-11-14 14:21:19.111] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 14:21:19.113] [INFO] default - Validating 200to be 200
+[2017-11-14 14:21:19.113] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 14:21:58.650] [INFO] default - Start of the automation test Execution
+[2017-11-14 14:21:58.910] [INFO] default - In fnExcelGetInstance
+[2017-11-14 14:21:58.926] [INFO] default - End of the automation test Execution
+[2017-11-14 14:22:00.287] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:00.290] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 14:22:00.292] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:00.292] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 14:22:00.294] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:00.294] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 14:22:00.295] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:00.295] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 14:22:00.296] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:00.296] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 14:22:00.311] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:00.312] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 14:22:00.314] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:00.315] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 14:22:36.924] [INFO] default - Start of the automation test Execution
+[2017-11-14 14:22:37.178] [INFO] default - In fnExcelGetInstance
+[2017-11-14 14:22:37.194] [INFO] default - End of the automation test Execution
+[2017-11-14 14:22:38.615] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:38.617] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 14:22:38.619] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:38.620] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 14:22:38.620] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:38.620] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 14:22:38.621] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:38.621] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 14:22:38.622] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:38.622] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 14:22:38.631] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:38.632] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 14:22:38.633] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:38.634] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 14:22:52.745] [INFO] default - Start of the automation test Execution
+[2017-11-14 14:22:53.000] [INFO] default - In fnExcelGetInstance
+[2017-11-14 14:22:53.016] [INFO] default - End of the automation test Execution
+[2017-11-14 14:22:54.370] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:54.373] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 14:22:54.375] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:54.376] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 14:22:54.377] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:54.377] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 14:22:54.378] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:54.379] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 14:22:54.380] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:54.381] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 14:22:54.385] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:54.385] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 14:22:54.386] [INFO] default - Validating 200to be 200
+[2017-11-14 14:22:54.387] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 14:24:29.179] [INFO] default - Start of the automation test Execution
+[2017-11-14 14:24:29.431] [INFO] default - In fnExcelGetInstance
+[2017-11-14 14:24:29.447] [INFO] default - End of the automation test Execution
+[2017-11-14 14:24:30.830] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:30.832] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 14:24:30.834] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:30.835] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 14:24:30.835] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:30.836] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 14:24:30.836] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:30.837] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 14:24:30.837] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:30.838] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 14:24:30.839] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:30.839] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 14:24:56.473] [INFO] default - Start of the automation test Execution
+[2017-11-14 14:24:56.734] [INFO] default - In fnExcelGetInstance
+[2017-11-14 14:24:56.750] [INFO] default - End of the automation test Execution
+[2017-11-14 14:24:58.374] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:58.376] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 14:24:58.378] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:58.379] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 14:24:58.379] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:58.380] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 14:24:58.380] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:58.381] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 14:24:58.381] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:58.382] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 14:24:58.384] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:58.384] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 14:24:58.386] [INFO] default - Validating 200to be 200
+[2017-11-14 14:24:58.387] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 16:18:34.302] [INFO] default - Start of the automation test Execution
+[2017-11-14 16:18:34.561] [INFO] default - In fnExcelGetInstance
+[2017-11-14 16:18:34.577] [INFO] default - End of the automation test Execution
+[2017-11-14 16:18:36.896] [INFO] default - Validating 200to be 200
+[2017-11-14 16:18:36.899] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 16:18:36.901] [INFO] default - Validating 200to be 200
+[2017-11-14 16:18:36.901] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 16:18:36.902] [INFO] default - Validating 200to be 200
+[2017-11-14 16:18:36.902] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 16:18:36.903] [INFO] default - Validating 200to be 200
+[2017-11-14 16:18:36.903] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 16:18:36.904] [INFO] default - Validating 200to be 200
+[2017-11-14 16:18:36.905] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 16:18:36.906] [INFO] default - Validating 200to be 200
+[2017-11-14 16:18:36.906] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 16:18:36.908] [INFO] default - Validating 200to be 200
+[2017-11-14 16:18:36.908] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 16:18:36.910] [ERROR] default - Error !!Excel is not defined
+[2017-11-14 16:19:24.813] [INFO] default - Start of the automation test Execution
+[2017-11-14 16:19:24.820] [INFO] default - In fnExcelGetInstance
+[2017-11-14 16:19:24.839] [INFO] default - End of the automation test Execution
+[2017-11-14 16:19:26.523] [INFO] default - Validating 200to be 200
+[2017-11-14 16:19:26.525] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 16:19:26.527] [INFO] default - Validating 200to be 200
+[2017-11-14 16:19:26.528] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 16:19:26.529] [INFO] default - Validating 200to be 200
+[2017-11-14 16:19:26.529] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 16:19:26.530] [INFO] default - Validating 200to be 200
+[2017-11-14 16:19:26.530] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 16:19:26.531] [INFO] default - Validating 200to be 200
+[2017-11-14 16:19:26.531] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 16:19:26.532] [INFO] default - Validating 200to be 200
+[2017-11-14 16:19:26.532] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 16:19:26.535] [INFO] default - Validating 200to be 200
+[2017-11-14 16:19:26.536] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 16:23:33.347] [INFO] default - Start of the automation test Execution
+[2017-11-14 16:23:33.354] [INFO] default - In fnExcelGetInstance
+[2017-11-14 16:23:33.359] [INFO] default - End of the automation test Execution
+[2017-11-14 16:23:35.042] [INFO] default - Validating 200to be 200
+[2017-11-14 16:23:35.045] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 16:23:35.049] [INFO] default - Validating 200to be 200
+[2017-11-14 16:23:35.050] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 16:23:35.061] [INFO] default - Validating 200to be 200
+[2017-11-14 16:23:35.062] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 16:23:35.063] [INFO] default - Validating 200to be 200
+[2017-11-14 16:23:35.064] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 16:23:35.064] [INFO] default - Validating 200to be 200
+[2017-11-14 16:23:35.065] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 16:23:35.066] [INFO] default - Validating 200to be 200
+[2017-11-14 16:23:35.066] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 16:25:33.410] [INFO] default - Start of the automation test Execution
+[2017-11-14 16:25:33.417] [INFO] default - In fnExcelGetInstance
+[2017-11-14 16:25:33.432] [INFO] default - End of the automation test Execution
+[2017-11-14 16:25:35.326] [INFO] default - Validating 200to be 200
+[2017-11-14 16:25:35.329] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 16:25:35.331] [INFO] default - Validating 200to be 200
+[2017-11-14 16:25:35.332] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 16:25:35.333] [INFO] default - Validating 200to be 200
+[2017-11-14 16:25:35.333] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 16:25:35.334] [INFO] default - Validating 200to be 200
+[2017-11-14 16:25:35.334] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 16:25:35.335] [INFO] default - Validating 200to be 200
+[2017-11-14 16:25:35.335] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 16:25:35.336] [INFO] default - Validating 200to be 200
+[2017-11-14 16:25:35.336] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 16:26:19.823] [INFO] default - Start of the automation test Execution
+[2017-11-14 16:26:19.830] [INFO] default - In fnExcelGetInstance
+[2017-11-14 16:26:19.845] [INFO] default - End of the automation test Execution
+[2017-11-14 16:26:21.465] [INFO] default - Validating 200to be 200
+[2017-11-14 16:26:21.467] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 16:26:21.470] [INFO] default - Validating 200to be 200
+[2017-11-14 16:26:21.470] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 16:26:21.471] [INFO] default - Validating 200to be 200
+[2017-11-14 16:26:21.471] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 16:26:21.472] [INFO] default - Validating 200to be 200
+[2017-11-14 16:26:21.473] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 16:26:21.474] [INFO] default - Validating 200to be 200
+[2017-11-14 16:26:21.474] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 16:26:21.475] [INFO] default - Validating 200to be 200
+[2017-11-14 16:26:21.476] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 16:26:21.476] [INFO] default - Validating 200to be 200
+[2017-11-14 16:26:21.476] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 17:00:42.176] [INFO] default - Start of the automation test Execution
+[2017-11-14 17:00:42.184] [INFO] default - In fnExcelGetInstance
+[2017-11-14 17:00:42.215] [INFO] default - End of the automation test Execution
+[2017-11-14 17:00:43.904] [INFO] default - Validating 200to be 200
+[2017-11-14 17:00:43.905] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 17:00:43.906] [INFO] default - Validating 200to be 200
+[2017-11-14 17:00:43.907] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 17:00:43.928] [INFO] default - Validating 200to be 200
+[2017-11-14 17:00:43.928] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 17:00:43.996] [INFO] default - Validating 200to be 200
+[2017-11-14 17:00:43.997] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 17:00:44.141] [INFO] default - Validating 200to be 200
+[2017-11-14 17:00:44.142] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 17:00:44.151] [INFO] default - Validating 200to be 200
+[2017-11-14 17:00:44.151] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 17:00:59.075] [INFO] default - Start of the automation test Execution
+[2017-11-14 17:00:59.083] [INFO] default - In fnExcelGetInstance
+[2017-11-14 17:00:59.103] [INFO] default - End of the automation test Execution
+[2017-11-14 17:01:00.800] [INFO] default - Validating 200to be 200
+[2017-11-14 17:01:00.802] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 17:01:00.804] [INFO] default - Validating 200to be 200
+[2017-11-14 17:01:00.804] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 17:01:00.805] [INFO] default - Validating 200to be 200
+[2017-11-14 17:01:00.805] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 17:01:00.806] [INFO] default - Validating 200to be 200
+[2017-11-14 17:01:00.806] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 17:01:00.807] [INFO] default - Validating 200to be 200
+[2017-11-14 17:01:00.807] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 17:01:00.809] [INFO] default - Validating 200to be 200
+[2017-11-14 17:01:00.809] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 17:01:00.814] [INFO] default - Validating 200to be 200
+[2017-11-14 17:01:00.814] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 17:01:00.815] [INFO] default - In fnExcelGetInstance
+[2017-11-14 17:01:00.815] [INFO] default - In fnExcelEnterCellData
+[2017-11-14 17:22:57.448] [INFO] default - Start of the automation test Execution
+[2017-11-14 17:22:57.455] [INFO] default - In fnExcelGetInstance
+[2017-11-14 17:22:57.472] [INFO] default - End of the automation test Execution
+[2017-11-14 17:23:00.158] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:00.160] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 17:23:00.162] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:00.163] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 17:23:00.164] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:00.164] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 17:23:00.165] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:00.165] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 17:23:00.166] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:00.166] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 17:23:00.176] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:00.177] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 17:23:11.552] [INFO] default - Start of the automation test Execution
+[2017-11-14 17:23:11.560] [INFO] default - In fnExcelGetInstance
+[2017-11-14 17:23:11.576] [INFO] default - End of the automation test Execution
+[2017-11-14 17:23:13.201] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:13.204] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 17:23:13.206] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:13.207] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 17:23:13.208] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:13.209] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 17:23:13.210] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:13.210] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 17:23:13.210] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:13.211] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 17:23:13.212] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:13.212] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 17:23:13.217] [INFO] default - Validating 200to be 200
+[2017-11-14 17:23:13.217] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 17:23:13.218] [INFO] default - In fnExcelGetInstance
+[2017-11-14 17:23:13.218] [INFO] default - In fnExcelEnterCellData
+[2017-11-14 17:23:13.270] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-14 17:28:01.899] [INFO] default - Start of the automation test Execution
+[2017-11-14 17:28:01.908] [INFO] default - In fnExcelGetInstance
+[2017-11-14 17:28:01.928] [INFO] default - End of the automation test Execution
+[2017-11-14 17:28:03.828] [INFO] default - Validating 200to be 200
+[2017-11-14 17:28:03.830] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 17:28:03.832] [INFO] default - Validating 200to be 200
+[2017-11-14 17:28:03.833] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 17:28:03.833] [INFO] default - Validating 200to be 200
+[2017-11-14 17:28:03.834] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 17:28:03.835] [INFO] default - Validating 200to be 200
+[2017-11-14 17:28:03.835] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 17:28:03.835] [INFO] default - Validating 200to be 200
+[2017-11-14 17:28:03.835] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 17:28:03.836] [INFO] default - Validating 200to be 200
+[2017-11-14 17:28:03.837] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 17:28:03.837] [INFO] default - Validating 200to be 200
+[2017-11-14 17:28:03.838] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 17:28:03.838] [INFO] default - In fnExcelGetInstance
+[2017-11-14 17:28:03.886] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-14 21:20:49.288] [INFO] default - Start of the automation test Execution
+[2017-11-14 21:20:49.295] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:20:49.311] [INFO] default - End of the automation test Execution
+[2017-11-14 21:20:51.233] [INFO] default - Validating 200to be 200
+[2017-11-14 21:20:51.235] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 21:20:51.237] [INFO] default - Validating 200to be 200
+[2017-11-14 21:20:51.238] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 21:20:51.239] [INFO] default - Validating 200to be 200
+[2017-11-14 21:20:51.239] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 21:20:51.240] [INFO] default - Validating 200to be 200
+[2017-11-14 21:20:51.240] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 21:20:51.242] [INFO] default - Validating 200to be 200
+[2017-11-14 21:20:51.242] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 21:20:51.244] [INFO] default - Validating 200to be 200
+[2017-11-14 21:20:51.244] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 21:20:51.355] [INFO] default - Validating 200to be 200
+[2017-11-14 21:20:51.355] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 21:20:51.356] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:20:51.357] [INFO] default - Validating 200to be 200
+[2017-11-14 21:20:51.357] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 21:21:13.406] [INFO] default - Start of the automation test Execution
+[2017-11-14 21:21:13.413] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:21:13.428] [INFO] default - End of the automation test Execution
+[2017-11-14 21:21:15.182] [INFO] default - Validating 200to be 200
+[2017-11-14 21:21:15.184] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 21:21:15.188] [INFO] default - Validating 200to be 200
+[2017-11-14 21:21:15.189] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 21:21:15.190] [INFO] default - Validating 200to be 200
+[2017-11-14 21:21:15.192] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 21:21:15.193] [INFO] default - Validating 200to be 200
+[2017-11-14 21:21:15.193] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 21:21:15.196] [INFO] default - Validating 200to be 200
+[2017-11-14 21:21:15.196] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 21:21:15.296] [INFO] default - Validating 200to be 200
+[2017-11-14 21:21:15.296] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 21:21:15.305] [INFO] default - Validating 200to be 200
+[2017-11-14 21:21:15.305] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 21:21:15.306] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:21:15.307] [INFO] default - Validating 200to be 200
+[2017-11-14 21:21:15.307] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 21:22:49.398] [INFO] default - Start of the automation test Execution
+[2017-11-14 21:22:49.405] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:22:49.422] [INFO] default - End of the automation test Execution
+[2017-11-14 21:22:51.098] [INFO] default - Validating 200to be 200
+[2017-11-14 21:22:51.100] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 21:22:51.102] [INFO] default - Validating 200to be 200
+[2017-11-14 21:22:51.102] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 21:22:51.103] [INFO] default - Validating 200to be 200
+[2017-11-14 21:22:51.103] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 21:22:51.104] [INFO] default - Validating 200to be 200
+[2017-11-14 21:22:51.104] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 21:22:51.116] [INFO] default - Validating 200to be 200
+[2017-11-14 21:22:51.116] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 21:22:51.120] [INFO] default - Validating 200to be 200
+[2017-11-14 21:22:51.120] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 21:22:51.121] [INFO] default - Validating 200to be 200
+[2017-11-14 21:22:51.121] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 21:22:51.122] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:22:51.123] [INFO] default - Validating 200to be 200
+[2017-11-14 21:22:51.123] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 21:23:21.936] [INFO] default - Start of the automation test Execution
+[2017-11-14 21:23:21.943] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:23:21.958] [INFO] default - End of the automation test Execution
+[2017-11-14 21:23:23.601] [INFO] default - Validating 200to be 200
+[2017-11-14 21:23:23.603] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 21:23:23.605] [INFO] default - Validating 200to be 200
+[2017-11-14 21:23:23.606] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 21:23:23.606] [INFO] default - Validating 200to be 200
+[2017-11-14 21:23:23.607] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 21:23:23.608] [INFO] default - Validating 200to be 200
+[2017-11-14 21:23:23.608] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 21:23:23.609] [INFO] default - Validating 200to be 200
+[2017-11-14 21:23:23.609] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 21:23:23.611] [INFO] default - Validating 200to be 200
+[2017-11-14 21:23:23.611] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 21:23:23.617] [INFO] default - Validating 200to be 200
+[2017-11-14 21:23:23.618] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 21:23:23.618] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:23:23.619] [INFO] default - Validating 200to be 200
+[2017-11-14 21:23:23.620] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 21:24:37.733] [INFO] default - Start of the automation test Execution
+[2017-11-14 21:24:37.740] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:24:37.745] [INFO] default - End of the automation test Execution
+[2017-11-14 21:24:39.445] [INFO] default - Validating 200to be 200
+[2017-11-14 21:24:39.447] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 21:24:39.449] [INFO] default - Validating 200to be 200
+[2017-11-14 21:24:39.450] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 21:24:39.450] [INFO] default - Validating 200to be 200
+[2017-11-14 21:24:39.451] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 21:24:39.451] [INFO] default - Validating 200to be 200
+[2017-11-14 21:24:39.452] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 21:24:39.453] [INFO] default - Validating 200to be 200
+[2017-11-14 21:24:39.454] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 21:24:39.455] [INFO] default - Validating 200to be 200
+[2017-11-14 21:24:39.455] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 21:24:39.588] [INFO] default - Validating 200to be 200
+[2017-11-14 21:24:39.589] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 21:24:39.590] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:24:39.591] [INFO] default - Validating 200to be 200
+[2017-11-14 21:24:39.591] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 21:25:52.107] [INFO] default - Start of the automation test Execution
+[2017-11-14 21:25:52.114] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:25:52.131] [INFO] default - End of the automation test Execution
+[2017-11-14 21:25:53.904] [INFO] default - Validating 200to be 200
+[2017-11-14 21:25:53.905] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 21:25:53.907] [INFO] default - Validating 200to be 200
+[2017-11-14 21:25:53.907] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 21:25:53.908] [INFO] default - Validating 200to be 200
+[2017-11-14 21:25:53.909] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 21:25:53.910] [INFO] default - Validating 200to be 200
+[2017-11-14 21:25:53.910] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 21:25:53.911] [INFO] default - Validating 200to be 200
+[2017-11-14 21:25:53.911] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 21:25:53.912] [INFO] default - Validating 200to be 200
+[2017-11-14 21:25:53.912] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 21:26:06.443] [INFO] default - Start of the automation test Execution
+[2017-11-14 21:26:06.450] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:26:06.464] [INFO] default - End of the automation test Execution
+[2017-11-14 21:26:08.037] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:08.039] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 21:26:08.041] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:08.042] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 21:26:08.045] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:08.045] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 21:26:08.046] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:08.046] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 21:26:08.064] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:08.065] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 21:26:08.188] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:08.189] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 21:26:16.123] [INFO] default - Start of the automation test Execution
+[2017-11-14 21:26:16.130] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:26:16.145] [INFO] default - End of the automation test Execution
+[2017-11-14 21:26:17.717] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:17.720] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 21:26:17.722] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:17.723] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 21:26:17.729] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:17.729] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 21:26:17.731] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:17.731] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 21:26:17.891] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:17.891] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 21:26:17.895] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:17.896] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 21:26:33.776] [INFO] default - Start of the automation test Execution
+[2017-11-14 21:26:33.783] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:26:33.797] [INFO] default - End of the automation test Execution
+[2017-11-14 21:26:35.386] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:35.388] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-14 21:26:35.390] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:35.391] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-14 21:26:35.392] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:35.392] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-14 21:26:35.393] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:35.393] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-14 21:26:35.394] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:35.394] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-14 21:26:35.398] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:35.399] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-14 21:26:35.553] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:35.554] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-14 21:26:35.555] [INFO] default - In fnExcelGetInstance
+[2017-11-14 21:26:35.556] [INFO] default - Validating 200to be 200
+[2017-11-14 21:26:35.556] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-15 12:53:42.270] [INFO] default - Start of the automation test Execution
+[2017-11-15 12:53:42.277] [INFO] default - In fnExcelGetInstance
+[2017-11-15 12:53:42.295] [INFO] default - End of the automation test Execution
+[2017-11-15 12:53:45.017] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:45.020] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-15 12:53:45.022] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:45.022] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-15 12:53:45.023] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:45.023] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 12:53:45.024] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:45.024] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-15 12:53:45.024] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:45.025] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-15 12:53:45.026] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:45.026] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-15 12:53:55.307] [INFO] default - Start of the automation test Execution
+[2017-11-15 12:53:55.314] [INFO] default - In fnExcelGetInstance
+[2017-11-15 12:53:55.330] [INFO] default - End of the automation test Execution
+[2017-11-15 12:53:57.014] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:57.016] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-15 12:53:57.018] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:57.019] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-15 12:53:57.020] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:57.020] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-15 12:53:57.022] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:57.022] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 12:53:57.023] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:57.023] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-15 12:53:57.027] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:57.027] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-15 12:53:57.030] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:57.030] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-15 12:53:57.031] [INFO] default - In fnExcelGetInstance
+[2017-11-15 12:53:57.033] [INFO] default - Validating 200to be 200
+[2017-11-15 12:53:57.033] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-15 12:54:20.431] [INFO] default - Start of the automation test Execution
+[2017-11-15 12:54:20.438] [INFO] default - In fnExcelGetInstance
+[2017-11-15 12:54:20.457] [INFO] default - End of the automation test Execution
+[2017-11-15 12:54:22.170] [INFO] default - Validating 200to be 200
+[2017-11-15 12:54:22.172] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-15 12:54:22.175] [INFO] default - Validating 200to be 200
+[2017-11-15 12:54:22.176] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 12:54:22.177] [INFO] default - Validating 200to be 200
+[2017-11-15 12:54:22.177] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-15 12:54:22.178] [INFO] default - Validating 200to be 200
+[2017-11-15 12:54:22.178] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-15 12:54:22.179] [INFO] default - Validating 200to be 200
+[2017-11-15 12:54:22.179] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-15 12:54:22.180] [INFO] default - Validating 200to be 200
+[2017-11-15 12:54:22.181] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-15 12:54:22.182] [INFO] default - Validating 200to be 200
+[2017-11-15 12:54:22.183] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-15 12:54:22.183] [INFO] default - In fnExcelGetInstance
+[2017-11-15 12:54:22.184] [INFO] default - Validating 200to be 200
+[2017-11-15 12:54:22.185] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-15 12:57:33.974] [INFO] default - Start of the automation test Execution
+[2017-11-15 12:57:33.981] [INFO] default - In fnExcelGetInstance
+[2017-11-15 12:57:33.996] [INFO] default - End of the automation test Execution
+[2017-11-15 12:57:35.650] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:35.652] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-15 12:57:35.654] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:35.654] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-15 12:57:35.655] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:35.655] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-15 12:57:35.662] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:35.662] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-15 12:57:35.671] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:35.672] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-15 12:57:51.327] [INFO] default - Start of the automation test Execution
+[2017-11-15 12:57:51.334] [INFO] default - In fnExcelGetInstance
+[2017-11-15 12:57:51.350] [INFO] default - End of the automation test Execution
+[2017-11-15 12:57:52.971] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:52.974] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->8
+[2017-11-15 12:57:52.976] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:52.976] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 12:57:52.977] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:52.977] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->5
+[2017-11-15 12:57:52.994] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:53.036] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-15 12:57:53.037] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:53.037] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->7
+[2017-11-15 12:57:53.038] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:53.039] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-15 12:57:53.039] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:53.040] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-15 12:57:53.040] [INFO] default - In fnExcelGetInstance
+[2017-11-15 12:57:53.042] [INFO] default - Validating 200to be 200
+[2017-11-15 12:57:53.042] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-15 13:34:51.057] [INFO] default - Start of the automation test Execution
+[2017-11-15 13:34:51.064] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:34:51.079] [INFO] default - End of the automation test Execution
+[2017-11-15 13:34:52.162] [INFO] default - Validating 200to be 200
+[2017-11-15 13:34:52.163] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:34:52.164] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:34:52.165] [INFO] default - Validating 200to be 200
+[2017-11-15 13:34:52.165] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:38:24.981] [INFO] default - Start of the automation test Execution
+[2017-11-15 13:38:24.989] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:38:25.006] [INFO] default - End of the automation test Execution
+[2017-11-15 13:38:25.785] [INFO] default - Validating 200to be 200
+[2017-11-15 13:38:25.786] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:38:25.786] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:38:25.787] [INFO] default - Validating 200to be 200
+[2017-11-15 13:38:25.787] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:40:26.046] [INFO] default - Start of the automation test Execution
+[2017-11-15 13:40:26.053] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:40:26.069] [INFO] default - End of the automation test Execution
+[2017-11-15 13:40:27.137] [INFO] default - Validating 200to be 200
+[2017-11-15 13:40:27.139] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:40:27.139] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:40:27.140] [INFO] default - Validating 200to be 200
+[2017-11-15 13:40:27.141] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:40:27.141] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:43:12.526] [INFO] default - Start of the automation test Execution
+[2017-11-15 13:43:12.534] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:43:12.551] [INFO] default - End of the automation test Execution
+[2017-11-15 13:43:13.607] [INFO] default - Validating 200to be 200
+[2017-11-15 13:43:13.608] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:43:13.608] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:43:13.609] [INFO] default - Validating 200to be 200
+[2017-11-15 13:43:13.610] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:43:13.610] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:44:29.724] [INFO] default - Start of the automation test Execution
+[2017-11-15 13:44:29.732] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:44:29.749] [INFO] default - End of the automation test Execution
+[2017-11-15 13:44:30.791] [INFO] default - Validating 200to be 200
+[2017-11-15 13:44:30.792] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:44:30.792] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:44:30.793] [INFO] default - Validating 200to be 200
+[2017-11-15 13:44:30.793] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:44:30.794] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:45:47.672] [INFO] default - Start of the automation test Execution
+[2017-11-15 13:45:47.679] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:45:47.685] [INFO] default - End of the automation test Execution
+[2017-11-15 13:45:48.775] [INFO] default - Validating 200to be 200
+[2017-11-15 13:45:48.776] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:45:48.776] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:45:48.777] [INFO] default - Validating 200to be 200
+[2017-11-15 13:45:48.778] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:45:48.778] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:47:13.000] [INFO] default - Start of the automation test Execution
+[2017-11-15 13:47:13.007] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:47:13.013] [INFO] default - End of the automation test Execution
+[2017-11-15 13:47:13.786] [INFO] default - Validating 200to be 200
+[2017-11-15 13:47:13.787] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:47:13.787] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:47:13.788] [INFO] default - Validating 200to be 200
+[2017-11-15 13:47:13.789] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:47:13.789] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:53:24.435] [INFO] default - Start of the automation test Execution
+[2017-11-15 13:53:24.441] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:53:24.458] [INFO] default - End of the automation test Execution
+[2017-11-15 13:53:25.503] [INFO] default - Validating 200to be 200
+[2017-11-15 13:53:25.505] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:53:25.505] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:53:25.506] [INFO] default - Validating 200to be 200
+[2017-11-15 13:53:25.506] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:53:25.507] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:58:13.947] [INFO] default - Start of the automation test Execution
+[2017-11-15 13:58:13.955] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:58:13.971] [INFO] default - End of the automation test Execution
+[2017-11-15 13:58:14.757] [INFO] default - Validating 200to be 200
+[2017-11-15 13:58:14.757] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:58:14.758] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:59:19.663] [INFO] default - Start of the automation test Execution
+[2017-11-15 13:59:19.670] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:59:19.686] [INFO] default - End of the automation test Execution
+[2017-11-15 13:59:20.722] [INFO] default - Validating 200to be 200
+[2017-11-15 13:59:20.724] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:59:20.724] [INFO] default - In fnExcelGetInstance
+[2017-11-15 13:59:20.725] [INFO] default - Validating 200to be 200
+[2017-11-15 13:59:20.725] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 13:59:20.726] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:04:05.870] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:04:05.878] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:04:05.895] [INFO] default - End of the automation test Execution
+[2017-11-15 14:04:06.913] [INFO] default - Validating 200to be 200
+[2017-11-15 14:04:06.914] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:04:06.914] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:04:06.915] [INFO] default - Validating 200to be 200
+[2017-11-15 14:04:06.915] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:04:06.916] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:04:22.552] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:04:22.559] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:04:22.576] [INFO] default - End of the automation test Execution
+[2017-11-15 14:04:23.601] [INFO] default - Validating 200to be 200
+[2017-11-15 14:04:23.602] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:04:23.603] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:04:23.607] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:04:23.637] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:06:07.594] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:06:07.602] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:06:07.608] [INFO] default - End of the automation test Execution
+[2017-11-15 14:06:08.384] [INFO] default - Validating 200to be 200
+[2017-11-15 14:06:08.385] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:06:08.385] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:06:08.388] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:06:08.670] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:07:16.322] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:07:16.330] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:07:16.351] [INFO] default - End of the automation test Execution
+[2017-11-15 14:07:17.143] [INFO] default - Validating 200to be 200
+[2017-11-15 14:07:17.144] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:07:17.144] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:07:17.148] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:07:17.760] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:08:06.335] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:08:06.342] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:08:06.358] [INFO] default - End of the automation test Execution
+[2017-11-15 14:08:07.375] [INFO] default - Validating 200to be 200
+[2017-11-15 14:08:07.377] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:08:07.377] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:08:07.381] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:08:07.412] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:08:36.798] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:08:36.805] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:08:36.821] [INFO] default - End of the automation test Execution
+[2017-11-15 14:08:37.576] [INFO] default - Validating 200to be 200
+[2017-11-15 14:08:37.577] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:08:37.577] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:08:37.578] [INFO] default - Validating 200to be 200
+[2017-11-15 14:08:37.579] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:08:37.579] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:09:32.014] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:09:32.022] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:09:32.038] [INFO] default - End of the automation test Execution
+[2017-11-15 14:09:33.099] [INFO] default - Validating 200to be 200
+[2017-11-15 14:09:33.101] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:09:33.101] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:09:33.105] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:09:33.136] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:11:44.325] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:11:44.332] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:11:44.348] [INFO] default - End of the automation test Execution
+[2017-11-15 14:11:45.113] [INFO] default - Validating 200to be 200
+[2017-11-15 14:11:45.114] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:11:45.115] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:11:45.118] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:11:45.422] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:14:52.079] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:14:52.086] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:14:52.102] [INFO] default - End of the automation test Execution
+[2017-11-15 14:14:53.147] [INFO] default - Validating 200to be 200
+[2017-11-15 14:14:53.148] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:14:53.148] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:14:53.151] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:15:44.756] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:15:44.763] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:15:44.780] [INFO] default - End of the automation test Execution
+[2017-11-15 14:15:45.556] [INFO] default - Validating 200to be 200
+[2017-11-15 14:15:45.557] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:15:45.557] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:15:45.558] [INFO] default - Validating 200to be 200
+[2017-11-15 14:15:45.560] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:15:45.560] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:16:37.072] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:16:37.079] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:16:37.094] [INFO] default - End of the automation test Execution
+[2017-11-15 14:16:37.869] [INFO] default - Validating 200to be 200
+[2017-11-15 14:16:37.871] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:16:37.871] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:16:37.876] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:16:38.163] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:17:35.192] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:17:35.199] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:17:35.215] [INFO] default - End of the automation test Execution
+[2017-11-15 14:17:35.962] [INFO] default - Validating 200to be 200
+[2017-11-15 14:17:35.963] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:17:35.964] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:17:35.964] [INFO] default - Validating 200to be 200
+[2017-11-15 14:17:35.965] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:17:35.965] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:19:34.812] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:19:34.819] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:19:34.836] [INFO] default - End of the automation test Execution
+[2017-11-15 14:19:35.852] [INFO] default - Validating 200to be 200
+[2017-11-15 14:19:35.853] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:19:35.854] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:19:35.859] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:19:35.892] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:31:04.215] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:31:04.223] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:31:04.239] [INFO] default - End of the automation test Execution
+[2017-11-15 14:31:16.937] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:31:16.943] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:31:16.959] [INFO] default - End of the automation test Execution
+[2017-11-15 14:31:34.076] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:31:34.083] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:31:34.099] [INFO] default - End of the automation test Execution
+[2017-11-15 14:31:35.382] [INFO] default - Validating 200to be 200
+[2017-11-15 14:31:35.382] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:31:35.383] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:31:35.386] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:31:35.419] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:32:04.852] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:32:04.859] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:32:04.874] [INFO] default - End of the automation test Execution
+[2017-11-15 14:32:05.890] [INFO] default - Validating 200to be 200
+[2017-11-15 14:32:05.891] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:32:05.891] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:32:05.895] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:32:05.928] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:33:41.478] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:33:41.485] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:33:41.502] [INFO] default - End of the automation test Execution
+[2017-11-15 14:33:43.138] [INFO] default - Validating 200to be 200
+[2017-11-15 14:33:43.139] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:33:43.139] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:33:43.143] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:33:43.179] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:35:10.663] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:35:10.672] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:35:10.687] [INFO] default - End of the automation test Execution
+[2017-11-15 14:35:11.444] [INFO] default - Validating 200to be 200
+[2017-11-15 14:35:11.445] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:35:11.445] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:35:11.449] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:35:11.736] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:36:03.431] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:36:03.439] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:36:03.455] [INFO] default - End of the automation test Execution
+[2017-11-15 14:36:04.226] [INFO] default - Validating 200to be 200
+[2017-11-15 14:36:04.227] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:36:04.227] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:36:04.231] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:36:04.518] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 14:36:35.694] [INFO] default - Start of the automation test Execution
+[2017-11-15 14:36:35.701] [INFO] default - In fnExcelGetInstance
+[2017-11-15 14:36:35.717] [INFO] default - End of the automation test Execution
+[2017-11-15 14:36:36.487] [INFO] default - Validating 200to be 200
+[2017-11-15 14:36:36.488] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:36:36.491] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 14:36:36.791] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 20:39:28.005] [INFO] default - Start of the automation test Execution
+[2017-11-15 20:39:28.013] [INFO] default - In fnExcelGetInstance
+[2017-11-15 20:39:28.019] [INFO] default - End of the automation test Execution
+[2017-11-15 20:39:29.118] [INFO] default - Validating 200to be 200
+[2017-11-15 20:39:29.119] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 20:39:29.123] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 20:39:29.155] [INFO] default - Pass - saved the file!!! Please check
+[2017-11-15 20:43:56.500] [INFO] default - Start of the automation test Execution
+[2017-11-15 20:43:56.507] [INFO] default - In fnExcelGetInstance
+[2017-11-15 20:43:56.523] [INFO] default - End of the automation test Execution
+[2017-11-15 20:43:57.602] [INFO] default - Validating 200to be 200
+[2017-11-15 20:43:57.602] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 20:43:57.603] [INFO] default - Validating 200to be 200
+[2017-11-15 20:43:57.604] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 20:43:57.604] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 20:46:11.931] [INFO] default - Start of the automation test Execution
+[2017-11-15 20:46:11.937] [INFO] default - In fnExcelGetInstance
+[2017-11-15 20:46:11.952] [INFO] default - End of the automation test Execution
+[2017-11-15 20:46:13.422] [INFO] default - Validating 200to be 200
+[2017-11-15 20:46:13.424] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->3
+[2017-11-15 20:46:13.426] [INFO] default - Validating 200to be 200
+[2017-11-15 20:46:13.427] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->2
+[2017-11-15 20:46:13.427] [INFO] default - Validating 200to be 200
+[2017-11-15 20:46:13.428] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->4
+[2017-11-15 20:46:13.428] [INFO] default - Validating 200to be 200
+[2017-11-15 20:46:13.428] [INFO] default - Validating-data.commodities[0].color-to be equal to-brownfor row->6
+[2017-11-15 20:46:13.429] [INFO] default - Validating 200to be 200
+[2017-11-15 20:46:13.429] [INFO] default - Validating-data.commodities[0].color-to be equal to-redfor row->5
+[2017-11-15 20:46:13.431] [INFO] default - Validating 200to be 200
+[2017-11-15 20:46:13.431] [INFO] default - Validating-data.commodities[0].color-to be equal to-redfor row->5
+[2017-11-15 20:49:24.871] [INFO] default - Start of the automation test Execution
+[2017-11-15 20:49:24.878] [INFO] default - In fnExcelGetInstance
+[2017-11-15 20:49:24.894] [INFO] default - End of the automation test Execution
+[2017-11-15 20:49:26.658] [INFO] default - Validating 200to be 200
+[2017-11-15 20:49:26.662] [INFO] default - Validating 200to be 200
+[2017-11-15 20:49:26.664] [INFO] default - Validating 200to be 200
+[2017-11-15 20:49:26.665] [INFO] default - Validating 200to be 200
+[2017-11-15 20:49:26.666] [INFO] default - Validating 200to be 200
+[2017-11-15 20:49:26.667] [INFO] default - Validating 200to be 200
+[2017-11-16 16:57:34.556] [INFO] default - Start of the automation test Execution
+[2017-11-16 16:57:34.563] [INFO] default - .\src\example\datafile\sampletxt.txt
+[2017-11-16 16:57:34.564] [INFO] default - Pass : File found.
+[2017-11-16 16:57:34.569] [INFO] default - Pass - data appended successfully!!!:
+[2017-11-16 16:57:34.575] [INFO] default - File data:this is a test
+this is second lineEditing text file for testing
+
+[2017-11-16 16:57:34.578] [INFO] default - In fnExcelGetInstance
+[2017-11-16 16:57:34.660] [ERROR] default - Error - Cannot read property 'forEach' of undefined
+[2017-11-16 16:57:39.594] [INFO] default - In fnPdfGetInstance
+[2017-11-16 16:57:39.763] [INFO] default - User Pass the Page Number undefined
+[2017-11-16 16:57:39.780] [INFO] default - End of the automation test Execution
+[2017-11-17 18:14:43.479] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:14:43.487] [INFO] default - .\src\example\datafile\sampletxt.txt
+[2017-11-17 18:14:43.490] [INFO] default - Pass : File found.
+[2017-11-17 18:14:43.494] [INFO] default - End of the automation test Execution
+[2017-11-17 18:15:47.833] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:15:47.839] [INFO] default - .\src\example\datafile\sampletxt.txt
+[2017-11-17 18:15:47.841] [INFO] default - Pass : File found.
+[2017-11-17 18:15:47.846] [INFO] default - Pass - data appended successfully!!!:
+[2017-11-17 18:15:47.852] [INFO] default - File data:this is a test
+this is second lineEditing text file for testing
+Editing text file for testing
+
+[2017-11-17 18:15:47.861] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:15:47.925] [ERROR] default - Error - Cannot read property 'forEach' of undefined
+[2017-11-17 18:15:52.877] [INFO] default - In fnPdfGetInstance
+[2017-11-17 18:15:53.057] [INFO] default - User Pass the Page Number [object Object]
+[2017-11-17 18:15:53.195] [INFO] default - 39Page Number2015 RIA Benchmarking Study Money Manager Peer Group  $25MM-$100MM AUM FIRM PROFITABILITY Prepared for  KENSINGTON INVESTMENT COUNSEL Profit  and  Loss  Statement CONFIDENTIAL. See Methodology, Disclosures and Terms of Use for important information about this report. Charles Schwab        Page 39 2014 Profit and Loss (Page 2 of 3) Your Firm Peer Group Best- Managed Firms P&L  Entry Percent  of Revenue Average 20 th Percentile Median 80 th Percentile Average Overhead  Expenses Salaries  and  bonuses — administrative  and  support  staff $44,000 8.6% 4.7% 0.0% 2.2% 9.2% 7.8% Retirement  benefits Principals $0 0.0% 2.9% 0.0% 0.0% 6.7% 1.7% All  other  staff $0 0.0% 0.6% 0.0% 0.0% 0.0% 1.1% Health  and  other  employee insurance  benefits $40,000 7.8% 2.0% 0.0% 0.7% 3.7% 1.5% Payroll  taxes $12,000 2.4% 2.5% 0.0% 2.2% 3.7% 1.9% Office  rent  and  maintenance $30,000 5.9% 4.9% 2.4% 4.5% 7.2% 2.6% Marketing  and  business development  expenses $2,000 0.4% 1.9% 0.0% 0.7% 2.8% 1.3% Compliance  (outsourcing) $0 0.0% 0.4% 0.0% 0.2% 0.8% 0.2% Information  technology (equipment  and  outsourcing) $11,000 2.2% 1.9% 0.2% 1.6% 3.0% 1.4% Equipment  (leases,  purchases and  maintenance) $0 0.0% 0.4% 0.0% 0.0% 0.7% 0.2% Outsourcing  (excluding compliance  and  IT) $0 0.0% 0.6% 0.0% 0.0% 1.5% 0.5% Office  expenses  (supplies,  copies) $0 0.0% 1.1% 0.3% 0.8% 2.2% 0.9% Utilities,  phone,  and  internet $10,000 2.0% 1.4% 0.5% 1.3% 2.0% 0.4% Research  expenses $6,000 1.2% 1.3% 0.0% 0.4% 2.6% 0.7% Professional  services (excluding  compliance  and  IT) $7,000 1.4% 0.6% 0.0% 0.2% 1.1% 1.1% Travel  and  auto  expenses $0 0.0% 1.6% 0.0% 0.8% 2.8% 0.8% Training,  education,  and professional  dues  or  licensing $20,000 3.9% 0.5% 0.0% 0.2% 0.7% 0.4% Business  insurance  (P&C,  E&O,  etc.) $4,000 0.8% 0.8% 0.2% 0.5% 1.5% 0.6% Depreciation  and  amortization $7,000 1.4% 0.2% 0.0% 0.0% 0.4% 0.4% Taxes  and  licenses  (excl.  payroll  tax) $0 0.0% 0.5% 0.0% 0.1% 0.9% 0.3% Other  overhead $51,000 10.0% 1.5% 0.0% 0.0% 1.3% 1.2% Total  Overhead  Expenses $244,000 47.8% 32.4% 24.2% 34.0% 41.4% 27.0% Operating  Income Gross  Profit  less  Overhead  Expenses $0 0.0% 12.8% 0.0% 8.7% 29.9% 30.5% Profit  and  loss  statement:  overhead  expenses and  operating  income In  2013,  firms  across  the  study  kept  overhead  expenses  low  even  as revenues  increased.  As  a  percentage  of  revenue,  overhead  was  32.4%.  In the  next  larger  peer  group,  overhead  margins  were  31.7%.  Across  the study,  back- office  and  administrative  staff,  and  office  rent  and maintenance  were  the  most  significant  overhead  expenses.  Taking  into  account  these  expenses,  the  average  operating  margin  was 12.8%  in  2013.  The  next  larger  peer  group  reported  a  14.7%  operating margin. 
+[2017-11-17 18:15:53.199] [INFO] default - Pass - Text found in Page
+[2017-11-17 18:15:53.202] [INFO] default - End of the automation test Execution
+[2017-11-17 18:16:24.546] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:16:24.553] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:16:24.569] [INFO] default - End of the automation test Execution
+[2017-11-17 18:17:43.187] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:17:43.195] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:17:43.212] [INFO] default - End of the automation test Execution
+[2017-11-17 18:17:43.585] [ERROR] default - Error - Invalid inputs ! Please check excel sheet for any blank entries
+[2017-11-17 18:17:43.593] [ERROR] default - Error - AssertionError: Invalid inputs ! Please check excel sheet for any blank entries
+[2017-11-17 18:17:43.653] [ERROR] default - Error - Invalid inputs ! Please check excel sheet for any blank entries
+[2017-11-17 18:17:43.654] [ERROR] default - Error - AssertionError: Invalid inputs ! Please check excel sheet for any blank entries
+[2017-11-17 18:21:36.808] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:21:36.816] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:21:36.837] [INFO] default - End of the automation test Execution
+[2017-11-17 18:21:38.137] [INFO] default - Validating 200to be 200
+[2017-11-17 18:21:38.423] [INFO] default - Validating 200to be 200
+[2017-11-17 18:24:53.327] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:24:53.334] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:24:53.351] [INFO] default - End of the automation test Execution
+[2017-11-17 18:24:54.627] [INFO] default - Validating 200to be 200
+[2017-11-17 18:24:54.629] [INFO] default - Validating 200to be 200
+[2017-11-17 18:24:54.630] [INFO] default - Validating 200to be 200
+[2017-11-17 18:27:02.250] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:27:02.257] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:27:02.273] [INFO] default - End of the automation test Execution
+[2017-11-17 18:27:03.665] [INFO] default - Validating 200to be 200
+[2017-11-17 18:27:03.668] [INFO] default - Validating 200to be 200
+[2017-11-17 18:29:25.734] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:29:25.741] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:29:25.759] [INFO] default - End of the automation test Execution
+[2017-11-17 18:29:27.279] [INFO] default - Validating 200to be 200
+[2017-11-17 18:29:27.305] [INFO] default - Validating 200to be 200
+[2017-11-17 18:30:05.220] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:30:05.226] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:30:05.243] [INFO] default - End of the automation test Execution
+[2017-11-17 18:30:06.558] [INFO] default - Validating 200to be 200
+[2017-11-17 18:30:06.559] [INFO] default - Validating 200to be 200
+[2017-11-17 18:30:06.559] [INFO] default - Validating 200to be 200
+[2017-11-17 18:31:32.807] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:31:32.814] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:31:32.830] [INFO] default - End of the automation test Execution
+[2017-11-17 18:31:34.123] [INFO] default - Validating 200to be 200
+[2017-11-17 18:31:34.124] [INFO] default - Validating 200to be 200
+[2017-11-17 18:31:34.125] [INFO] default - Validating 200to be 200
+[2017-11-17 18:44:36.871] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:44:36.879] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:44:36.995] [INFO] default - End of the automation test Execution
+[2017-11-17 18:44:38.558] [INFO] default - Validating 200to be 200
+[2017-11-17 18:44:38.562] [INFO] default - Validating 200to be 200
+[2017-11-17 18:47:21.640] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:47:21.647] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:47:21.758] [INFO] default - End of the automation test Execution
+[2017-11-17 18:47:22.972] [INFO] default - Validating 200to be 200
+[2017-11-17 18:47:22.976] [INFO] default - Validating 200to be 200
+[2017-11-17 18:49:06.418] [INFO] default - Start of the automation test Execution
+[2017-11-17 18:49:06.424] [INFO] default - In fnExcelGetInstance
+[2017-11-17 18:49:06.540] [INFO] default - End of the automation test Execution
+[2017-11-17 18:49:07.821] [INFO] default - Validating 200to be 200
+[2017-11-17 18:49:07.825] [INFO] default - Validating 200to be 200
